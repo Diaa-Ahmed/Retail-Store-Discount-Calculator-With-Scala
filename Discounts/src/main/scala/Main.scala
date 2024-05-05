@@ -1,5 +1,9 @@
 package Discounts
+import jdk.nashorn.internal.runtime.regexp.joni.ast.QuantifierNode
+
 import java.io.{File, FileOutputStream, PrintWriter}
+import java.time.LocalDate
+import java.time.temporal.ChronoUnit
 import scala.io.{BufferedSource, Source}
 
 object Main extends App {
@@ -22,28 +26,50 @@ object Main extends App {
     }
   }
   // Discount Functions -----------------------------
-     def aboutToExpire(expdate: String): Double = {
-       25.0
-     }
-     def isHoliday(date: String): Double = {
-      10.0
-     }
+      def aboutToExpire(orddate: String ,expdate: String): Double = {
+        val order_date = LocalDate.parse(orddate.substring(0,10))
+        val expire_date = LocalDate.parse(expdate)
+        val diff = ChronoUnit.DAYS.between(order_date,expire_date)
+        if ( diff <= 29) 30-diff
+        else 0
+      }
+      def categoryDiscount(product_name : String):Double={
+        if ( product_name.toLowerCase.contains("cheese") ) 10.0
+        else if ( product_name.toLowerCase.contains("wine") ) 5.0
+        else 0
+      }
+      def isHoliday(date: String): Double = {
+        val parsed_date = LocalDate.parse(date.substring(0,10))
+        if (parsed_date.getMonthValue == 3 && parsed_date.getDayOfMonth == 23) 50.0
+        else 0
+      }
+      def qunatityCheck(quantity:Int) : Double={
+        quantity match {
+          case q if (q >= 6 && q <= 9 ) => 5
+          case q if (q >= 10 && q <= 14 ) => 7
+          case q if (q >= 15 ) => 10
+          case _ => 0
+        }
+      }
   // -----------------------------------------------
 
   // Prepare Data to be printed
   def productToString(prod: Product , discountFuncs: List[Product => Double]): String = {
     val discount = calculateDiscount(discountFuncs, prod)
-    prod.product_name + ',' + prod.quantity +',' + prod.unit_price + ',' + prod.payment_method + ',' + discount+'%'
+    prod.product_name + ',' + prod.quantity +',' + prod.unit_price + ',' + prod.payment_method + ',' + discount+" %" + ',' + ( prod.unit_price - ((discount/100) * prod.unit_price))
   }
   // Contains Discount Functions
   val discountFunctions = List(
-    (prod: Product) => aboutToExpire(prod.expiry_date),
-    (prod: Product) => isHoliday(prod.timestamp)
+    (prod: Product) => aboutToExpire(prod.timestamp,prod.expiry_date),
+    (prod: Product) => categoryDiscount(prod.product_name),
+    (prod: Product) => isHoliday(prod.timestamp),
+    (prod: Product) => qunatityCheck(prod.quantity)
   )
   // Write Data Into CSV
   def writeLine(line: String): Unit = writer.write(line+"\n")
   // Add CSV Header
-  writer.write("Product Name,Quantity,unit_price,payment_method,discount%"+"\n")
+  writer.write("Product Name,Quantity,Unit_price,Payment_method,discount %,Final_price"+"\n")
+
   lines.map(toProduct).map(x => productToString(x, discountFunctions)).foreach(writeLine)
   writer.close()
 }
