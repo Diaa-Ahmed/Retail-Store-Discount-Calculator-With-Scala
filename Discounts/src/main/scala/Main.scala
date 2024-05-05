@@ -1,16 +1,21 @@
 package Discounts
-import jdk.nashorn.internal.runtime.regexp.joni.ast.QuantifierNode
 
 import java.io.{File, FileOutputStream, PrintWriter}
 import java.time.LocalDate
 import java.time.temporal.ChronoUnit
 import scala.io.{BufferedSource, Source}
+import java.util.logging.{FileHandler, Level, Logger}
 
 object Main extends App {
   val source: BufferedSource = Source.fromFile("src/resources/TRX1000.csv")
   val lines: List[String] = source.getLines().drop(1).toList // drop header
-  val f: File = new File("Final_discounts.csv")
+  val f: File = new File("../Final_discounts.csv")
   val writer = new PrintWriter(new FileOutputStream(f,true))
+
+  val fileHandler = new FileHandler("../rules_engine.log")
+  val logger: Logger = Logger.getLogger("Discount Engine")
+  logger.addHandler(fileHandler)
+
 
   case class Product(timestamp:String,	product_name :String ,	expiry_date:String , 	quantity:Int,	unit_price:Float ,	channel:String,	payment_method:String)
   def toProduct(line: String): Product =  {
@@ -51,6 +56,7 @@ object Main extends App {
           case _ => 0
         }
       }
+  logger.warning("My First Log")
   // -----------------------------------------------
 
   // Prepare Data to be printed
