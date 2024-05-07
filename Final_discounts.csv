@@ -2,13 +2,13 @@ Product Name,Quantity,Unit_price,Payment_method,discount %,Final_price
 Wine - White Pinot Grigio,6,122.47,Visa,5.0 %,116.34650115966797
 Pepper - Red Thai,5,23.18,Cash,0.0 %,23.18000030517578
 Wine - Chardonnay Mondavi,7,189.74,Cash,5.0 %,180.25300521850585
-External Supplier,14,9.92,Visa,7.0 %,9.22560007095337
+External Supplier,14,9.92,Visa,11.0 %,8.82880006790161
 Beans - Black Bean Preserved,13,145.85,Cash,7.0 %,135.64050567626953
 Beef - Inside Round,9,247.62,Visa,5.0 %,235.23899536132814
-Bread - Calabrese Baguette,1,111.21,Visa,4.0 %,106.76159912109375
-Zucchini - Mini Green,15,146.75,Visa,10.0 %,132.075
-Eggs - Extra Large,16,48.05,Visa,11.5 %,42.52424932479858
-Pork - Liver,17,191.13,Visa,10.0 %,172.01700439453126
+Bread - Calabrese Baguette,1,111.21,Visa,4.5 %,106.20554912567138
+Zucchini - Mini Green,15,146.75,Visa,7.5 %,135.74375
+Eggs - Extra Large,16,48.05,Visa,16.5 %,40.12174936294556
+Pork - Liver,17,191.13,Visa,7.5 %,176.79525451660157
 Sesame Seed,4,62.69,Cash,0.0 %,62.689998626708984
 Tuna - Yellowfin,9,183.3,Cash,5.0 %,174.13500289916993
 Wine - Magnotta - Belpaese,9,101.36,Cash,8.0 %,93.25120056152343
@@ -21,70 +21,70 @@ Lettuce - Boston Bib - Organic,6,96.43,Visa,5.0 %,91.60850028991699
 Wine - Marlbourough Sauv Blanc,4,233.83,Visa,15.0 %,198.7555015563965
 Longos - Chicken Cordon Bleu,16,193.04,Cash,10.0 %,173.73599395751953
 Beef Striploin Aaa,9,81.77,Cash,5.0 %,77.68149681091309
-Sauce - Oyster,2,69.06,Visa,14.0 %,59.39159790039062
-Barley - Pearl,3,94.98,Visa,0.0 %,94.9800033569336
-Cheese Cloth No 60,16,49.41,Visa,10.0 %,44.4689998626709
+Sauce - Oyster,2,69.06,Visa,9.5 %,62.49929779052734
+Barley - Pearl,3,94.98,Visa,5.0 %,90.23100318908692
+Cheese Cloth No 60,16,49.41,Visa,15.0 %,41.99849987030029
 Cut Wakame - Hanawakaba,16,190.34,Cash,10.0 %,171.30599670410157
-Kolrabi,14,29.13,Visa,14.5 %,24.906149282455445
-Coffee - Espresso,12,61.91,Visa,4.5 %,59.12404985427857
+Kolrabi,14,29.13,Visa,18.5 %,23.740949316024782
+Coffee - Espresso,12,61.91,Visa,11.0 %,55.09989986419678
 Beef - Kindney Whole,14,7.41,Visa,18.0 %,6.07619987487793
-Honey - Comb,3,97.54,Visa,0.0 %,97.54000091552734
+Honey - Comb,3,97.54,Visa,5.0 %,92.66300086975097
 Soup Campbells Turkey Veg.,1,1.86,Cash,25.0 %,1.395000010728836
 Syrup - Monin - Blue Curacao,9,62.85,Visa,15.5 %,53.108248710632324
 Coffee Beans - Chocolate,15,29.33,Cash,10.0 %,26.39699993133545
-Wine - Vidal Icewine Magnotta,17,220.37,Visa,7.5 %,203.84224548339844
-Island Oasis - Peach Daiquiri,16,128.13,Visa,10.0 %,115.31700439453125
+Wine - Vidal Icewine Magnotta,17,220.37,Visa,15.0 %,187.3144958496094
+Island Oasis - Peach Daiquiri,16,128.13,Visa,7.5 %,118.52025451660157
 Lychee,4,16.08,Cash,0.0 %,16.079999923706055
-Contreau,11,222.63,Visa,7.0 %,207.04590454101563
+Contreau,11,222.63,Visa,11.0 %,198.1407043457031
 Cheese - Taleggio D.o.p.,1,205.18,Visa,10.5 %,183.6360934448242
 Persimmons,14,80.81,Cash,7.0 %,75.15329772949218
 Towels - Paper / Kraft,7,17.24,Cash,5.0 %,16.377999782562256
-Pastry - Cheese Baked Scones,11,232.08,Visa,8.5 %,212.35320167541505
+Pastry - Cheese Baked Scones,11,232.08,Visa,12.5 %,203.07000160217285
 Honey - Liquid,16,103.96,Cash,10.0 %,93.56399917602539
-Veal - Bones,14,48.36,Visa,7.0 %,44.97480056762695
+Veal - Bones,14,48.36,Visa,11.0 %,43.04040054321289
 Beets,16,108.46,Cash,16.5 %,90.56409923553467
 Wine - Saint Emilion Calvet,5,31.56,Visa,5.0 %,29.981999492645265
-Coffee - Ristretto Coffee Capsule,12,234.0,Visa,7.0 %,217.62
+Coffee - Ristretto Coffee Capsule,12,234.0,Visa,6.0 %,219.96
 Beef - Tenderlion Center Cut,7,245.12,Visa,8.5 %,224.28479553222655
-Pails With Lids,5,156.56,Visa,0.0 %,156.55999755859375
+Pails With Lids,5,156.56,Visa,5.0 %,148.73199768066405
 Wine - Cousino Macul Antiguas,1,78.82,Visa,5.0 %,74.87899971008301
 Puree - Mango,7,236.95,Cash,5.0 %,225.10249710083008
 Soup - Campbells Chili,3,167.22,Cash,0.0 %,167.22000122070312
-Table Cloth 91x91 Colour,1,132.54,Visa,0.0 %,132.5399932861328
+Table Cloth 91x91 Colour,1,132.54,Visa,5.0 %,125.91299362182617
 Apron,6,139.54,Cash,5.0 %,132.56299362182617
-Chocolate - Mi - Amere Semi,6,227.37,Visa,5.0 %,216.00149536132812
+Chocolate - Mi - Amere Semi,6,227.37,Visa,7.5 %,210.31724548339844
 Tomatoes - Plum Canned,10,68.25,Cash,7.0 %,63.4725
-Oysters - Smoked,15,66.86,Visa,10.0 %,60.1740005493164
+Oysters - Smoked,15,66.86,Visa,12.5 %,58.50250053405762
 Pork - Chop Frenched,2,154.51,Cash,12.0 %,135.96879516601564
-Pastry - Baked Cinnamon Stick,12,64.08,Visa,15.5 %,54.14760154724121
-Bread Foccacia Whole,1,198.9,Visa,15.0 %,169.06499481201172
-Tuna - Loin,7,26.01,Visa,5.0 %,24.709500217437743
-Corn Syrup,8,124.55,Visa,5.0 %,118.32250289916992
+Pastry - Baked Cinnamon Stick,12,64.08,Visa,19.5 %,51.58440147399902
+Bread Foccacia Whole,1,198.9,Visa,10.0 %,179.00999450683594
+Tuna - Loin,7,26.01,Visa,7.5 %,24.0592502117157
+Corn Syrup,8,124.55,Visa,7.5 %,115.20875282287598
 Wine - Bouchard La Vignee Pinot,5,202.72,Visa,17.0 %,168.2576010131836
 Lamb - Pieces Diced,5,85.41,Cash,0.0 %,85.41000366210938
-Cocoa Butter,3,149.72,Visa,28.0 %,107.79840087890625
+Cocoa Butter,3,149.72,Visa,16.5 %,125.01620101928711
 Juice - Apple 284ml,2,24.63,Cash,0.0 %,24.6299991607666
 Tomato - Plum With Basil,3,71.15,Cash,0.0 %,71.1500015258789
 Wine - Magnotta White,4,136.58,Cash,5.0 %,129.75100173950196
 Veal - Knuckle,10,186.71,Cash,7.0 %,173.64030624389648
-Sugar - Brown,13,218.79,Visa,10.5 %,195.81704399108887
+Sugar - Brown,13,218.79,Visa,14.5 %,187.06544425964356
 Mix - Cocktail Ice Cream,15,94.51,Cash,10.0 %,85.05900192260742
-Bread Base - Gold Formel,6,83.09,Visa,14.5 %,71.04194686889649
+Bread Base - Gold Formel,6,83.09,Visa,17.0 %,68.96469696044922
 Salmon - Whole 4 - 6 Pounds,9,188.02,Cash,5.0 %,178.6190040588379
 Lettuce - Radicchio,12,227.89,Cash,7.0 %,211.93769943237305
-Wood Chips - Regular,17,191.65,Visa,10.0 %,172.48499450683593
-Pails With Lids,1,88.1,Visa,0.0 %,88.0999984741211
-Strawberries,2,148.88,Visa,1.0 %,147.39120483398438
+Wood Chips - Regular,17,191.65,Visa,15.0 %,162.90249481201172
+Pails With Lids,1,88.1,Visa,5.0 %,83.69499855041504
+Strawberries,2,148.88,Visa,5.0 %,141.43600463867188
 Bread - Pita,2,130.58,Cash,21.0 %,103.15820144653321
 Hand Towel,12,219.89,Cash,9.0 %,200.09989944458007
-Ice Cream - Chocolate,6,175.97,Visa,5.0 %,167.17150115966797
+Ice Cream - Chocolate,6,175.97,Visa,7.5 %,162.7722511291504
 Lid - 16 Oz And 32 Oz,10,105.73,Cash,18.0 %,86.69860275268555
 Mayonnaise,12,100.57,Cash,16.0 %,84.47879974365235
-Tarts Assorted,3,172.63,Visa,0.0 %,172.6300048828125
+Tarts Assorted,3,172.63,Visa,5.0 %,163.99850463867188
 Butter - Salted,14,105.08,Cash,7.0 %,97.72440170288085
 Amaretto,13,6.89,Cash,7.0 %,6.407699875831604
 Bread - White Mini Epi,17,21.35,Cash,10.0 %,19.215000343322753
-Lamb - Bones,16,111.07,Visa,10.0 %,99.9629997253418
+Lamb - Bones,16,111.07,Visa,15.0 %,94.40949974060058
 Bagelers - Cinn / Brown Sugar,12,210.78,Cash,7.0 %,196.02539886474608
 Soup - Campbells Beef Barley,17,206.53,Visa,8.0 %,190.00759887695312
 Pasta - Fettuccine Egg Fresh,6,166.99,Cash,5.0 %,158.64050521850587
@@ -93,221 +93,221 @@ Wine - White Schroder And Schyl,13,165.67,Cash,15.5 %,139.99114845275878
 Soup - Knorr Chicken Gumbo,3,236.76,Cash,21.0 %,187.0403956604004
 Wine - Red Colio Cabernet,14,150.82,Visa,18.0 %,123.67240600585937
 Thyme - Lemon Fresh,14,88.35,Cash,5.0 %,83.93249855041503
-Honey - Lavender,1,11.79,Visa,0.0 %,11.789999961853027
-Cake - Bande Of Fruit,11,43.91,Visa,16.0 %,36.88439987182617
-Veal - Insides Provini,11,40.81,Visa,9.5 %,36.93305124282837
+Honey - Lavender,1,11.79,Visa,5.0 %,11.200499963760375
+Cake - Bande Of Fruit,11,43.91,Visa,20.0 %,35.12799987792969
+Veal - Insides Provini,11,40.81,Visa,13.5 %,35.300651187896726
 Cheese - Taleggio D.o.p.,10,194.85,Visa,17.5 %,160.7512550354004
 Table Cloth 54x54 Colour,15,186.31,Cash,10.0 %,167.6789978027344
-Nut - Walnut Chopped,14,180.3,Visa,7.0 %,167.67900283813475
+Nut - Walnut Chopped,14,180.3,Visa,11.0 %,160.46700271606446
 Turkey - Whole Fresh,17,138.43,Cash,10.0 %,124.58699340820313
 Ocean Spray - Ruby Red,5,148.87,Cash,0.0 %,148.8699951171875
 Nantucket - Orange Mango Cktl,6,161.12,Cash,5.0 %,153.06399536132812
 Flower - Carnations,6,229.61,Cash,5.0 %,218.12950057983397
 Tequila - Sauza Silver,3,24.27,Cash,0.0 %,24.270000457763672
-Soup - Base Broth Beef,14,55.81,Visa,7.0 %,51.903301277160644
+Soup - Base Broth Beef,14,55.81,Visa,6.0 %,52.461401290893555
 Mikes Hard Lemonade,5,62.32,Cash,10.0 %,56.087999725341795
-Pasta - Lasagna Dry,12,8.24,Visa,7.0 %,7.6631997871398925
+Pasta - Lasagna Dry,12,8.24,Visa,6.0 %,7.745599784851074
 Ginsing - Fresh,9,92.93,Visa,5.0 %,88.28350028991699
-Capon - Breast Wing On,9,171.96,Visa,5.0 %,163.36200637817382
+Capon - Breast Wing On,9,171.96,Visa,7.5 %,159.06300621032716
 Chocolate - Semi Sweet Calets,15,197.52,Cash,10.0 %,177.76800384521485
-Tray - 16in Rnd Blk,12,7.88,Visa,7.0 %,7.3284001064300535
-Coffee - Frthy Coffee Crisp,16,22.75,Visa,8.5 %,20.81625
-Schnappes Peppermint - Walker,6,19.59,Visa,9.5 %,17.728950138092042
+Tray - 16in Rnd Blk,12,7.88,Visa,11.0 %,7.013200101852417
+Coffee - Frthy Coffee Crisp,16,22.75,Visa,15.0 %,19.3375
+Schnappes Peppermint - Walker,6,19.59,Visa,12.0 %,17.239200134277343
 Wine - White Lindemans Bin 95,9,182.21,Cash,5.0 %,173.09950637817383
-Coffee Cup 12oz 5342cd,10,130.1,Visa,7.0 %,120.99300567626953
+Coffee Cup 12oz 5342cd,10,130.1,Visa,8.5 %,119.0415055847168
 Paper - Brown Paper Mini Cups,6,5.63,Cash,5.0 %,5.348500108718872
 Coffee - Frthy Coffee Crisp,15,177.35,Cash,10.0 %,159.61500549316406
-Tea - Orange Pekoe,1,71.36,Visa,13.0 %,62.08320053100586
-Muffin Mix - Raisin Bran,11,171.22,Visa,7.0 %,159.2346011352539
+Tea - Orange Pekoe,1,71.36,Visa,9.0 %,64.93760055541992
+Muffin Mix - Raisin Bran,11,171.22,Visa,11.0 %,152.38580108642577
 Jack Daniels,17,210.22,Cash,30.0 %,147.15400085449218
-Beef - Ground Medium,14,174.09,Visa,7.0 %,161.90369659423828
+Beef - Ground Medium,14,174.09,Visa,11.0 %,154.94009674072265
 Onion Powder,15,136.9,Cash,16.0 %,114.99599487304687
-Tomatoes - Grape,13,164.11,Visa,7.0 %,152.62230056762695
-Wine - Chenin Blanc K.w.v.,11,184.55,Visa,6.0 %,173.47700286865233
+Tomatoes - Grape,13,164.11,Visa,11.0 %,146.0579005432129
+Wine - Chenin Blanc K.w.v.,11,184.55,Visa,11.0 %,164.24950271606446
 Quail - Eggs Fresh,13,222.23,Cash,6.5 %,207.78504600524903
 Bread - Pumpernickel,11,182.41,Cash,5.5 %,172.37745346069335
 Apples - Spartan,6,127.75,Visa,5.0 %,121.3625
 Snails - Large Canned,8,158.15,Visa,5.0 %,150.24249420166015
-Eggplant - Baby,3,241.88,Visa,0.0 %,241.8800048828125
-Wine - Rioja Campo Viejo,15,165.9,Visa,7.5 %,153.45749435424804
+Eggplant - Baby,3,241.88,Visa,5.0 %,229.78600463867187
+Wine - Rioja Campo Viejo,15,165.9,Visa,12.5 %,145.16249465942383
 Wine - Rosso Toscano Igt,1,188.66,Visa,15.0 %,160.36100311279296
 Wine - Blue Nun Qualitatswein,7,228.35,Cash,16.5 %,190.67225509643555
-Ecolab Crystal Fusion,5,90.56,Visa,0.0 %,90.55999755859375
+Ecolab Crystal Fusion,5,90.56,Visa,5.0 %,86.03199768066406
 Ecolab Crystal Fusion,9,92.27,Cash,5.0 %,87.65649681091308
-Sauce - White Mix,13,194.21,Visa,7.0 %,180.6153062438965
-Lobak,15,91.02,Visa,10.0 %,81.91799697875976
-Pasta - Shells Medium Dry,3,212.35,Visa,28.0 %,152.89200439453123
+Sauce - White Mix,13,194.21,Visa,11.0 %,172.8469059753418
+Lobak,15,91.02,Visa,7.5 %,84.19349689483643
+Pasta - Shells Medium Dry,3,212.35,Visa,16.5 %,177.31225509643554
 Tomatoes Tear Drop Yellow,13,45.47,Visa,6.5 %,42.51445114135742
 Melon - Honey Dew,12,167.18,Cash,7.0 %,155.47739318847655
 Dried Cranberries,16,166.28,Visa,30.0 %,116.39599914550782
-Bagels Poppyseed,8,80.83,Visa,5.0 %,76.78850173950195
-Mushroom - Crimini,15,217.8,Visa,10.0 %,196.02000274658204
-Spice - Peppercorn Melange,7,234.14,Visa,5.0 %,222.43299942016603
-Fruit Salad Deluxe,4,148.25,Visa,0.0 %,148.25
+Bagels Poppyseed,8,80.83,Visa,7.5 %,74.76775169372559
+Mushroom - Crimini,15,217.8,Visa,12.5 %,190.5750026702881
+Spice - Peppercorn Melange,7,234.14,Visa,7.5 %,216.5794994354248
+Fruit Salad Deluxe,4,148.25,Visa,5.0 %,140.8375
 Mountain Dew,13,62.12,Cash,12.0 %,54.6655990600586
-Pur Value,4,9.19,Visa,6.0 %,8.638599605560303
-Remy Red Berry Infusion,7,38.18,Visa,5.0 %,36.27100028991699
-Chestnuts - Wholecanned,9,38.44,Visa,5.0 %,36.517998695373535
+Pur Value,4,9.19,Visa,5.5 %,8.68454960346222
+Remy Red Berry Infusion,7,38.18,Visa,7.5 %,35.3165002822876
+Chestnuts - Wholecanned,9,38.44,Visa,7.5 %,35.55699872970581
 Pork - Sausage Medium,6,233.63,Cash,9.0 %,212.60330444335938
 Apple - Royal Gala,10,235.0,Cash,7.0 %,218.55
-Oil - Cooking Spray,14,83.2,Visa,7.0 %,77.37599716186523
+Oil - Cooking Spray,14,83.2,Visa,11.0 %,74.04799728393554
 Tuna - Bluefin,5,9.57,Cash,24.0 %,7.273199768066407
 Pepper - Green Thai,1,64.88,Cash,0.0 %,64.87999725341797
 Mustard - Individual Pkg,14,161.8,Cash,7.0 %,150.47400283813477
-Pepper - Julienne Frozen,10,135.67,Visa,7.0 %,126.17309829711914
+Pepper - Julienne Frozen,10,135.67,Visa,8.5 %,124.13804832458496
 Hummus - Spread,17,135.48,Cash,16.0 %,113.80319641113282
 Absolut Citron,9,62.42,Visa,5.0 %,59.298998260498045
 Salad Dressing,6,150.28,Cash,10.5 %,134.5005989074707
-Yogurt - Assorted Pack,11,64.81,Visa,7.0 %,60.273297729492185
+Yogurt - Assorted Pack,11,64.81,Visa,11.0 %,57.680897827148435
 Soap - Hand Soap,6,83.29,Cash,5.0 %,79.12550086975098
-Barley - Pearl,2,123.76,Visa,0.0 %,123.76000213623047
+Barley - Pearl,2,123.76,Visa,5.0 %,117.57200202941894
 Appetizer - Sausage Rolls,8,75.13,Cash,5.0 %,71.37349739074708
-Lemons,17,247.42,Visa,12.5 %,216.49249839782715
+Lemons,17,247.42,Visa,17.5 %,204.1214984893799
 Cake - Miini Cheesecake Cherry,12,127.02,Cash,8.5 %,116.22329692840576
-Table Cloth 72x144 White,17,229.19,Visa,10.0 %,206.27100219726563
-Sword Pick Asst,1,204.31,Visa,1.0 %,202.26689758300782
+Table Cloth 72x144 White,17,229.19,Visa,7.5 %,212.0007522583008
+Sword Pick Asst,1,204.31,Visa,3.0 %,198.18069763183593
 Cake - Sheet Strawberry,4,72.27,Cash,0.0 %,72.2699966430664
 Tuna - Sushi Grade,14,40.61,Cash,7.0 %,37.767300567626954
 Wine - Vovray Sec Domaine Huet,4,41.5,Visa,5.0 %,39.425
-Watercress,14,227.82,Visa,7.0 %,211.87260681152344
+Watercress,14,227.82,Visa,6.0 %,214.15080688476561
 V8 Splash Strawberry Banana,13,42.39,Cash,7.0 %,39.422699432373044
 Syrup - Monin - Blue Curacao,10,121.04,Cash,7.0 %,112.56720085144043
 Sprouts - China Rose,10,58.63,Cash,17.5 %,48.36975088119507
-Pears - Bosc,15,46.72,Visa,10.0 %,42.04800109863281
+Pears - Bosc,15,46.72,Visa,12.5 %,40.880001068115234
 Beef - Ox Tongue,3,152.52,Cash,50.0 %,76.26000213623047
-Buttons,5,80.87,Visa,0.0 %,80.87000274658203
+Buttons,5,80.87,Visa,5.0 %,76.82650260925293
 The Pop Shoppe - Root Beer,15,226.37,Visa,30.0 %,158.45899658203126
 Pork - Ground,1,189.55,Cash,15.0 %,161.11750259399415
 Wasabi Powder,1,24.63,Visa,5.0 %,23.39849920272827
-Milk 2% 500 Ml,14,229.53,Visa,7.0 %,213.46289886474608
+Milk 2% 500 Ml,14,229.53,Visa,11.0 %,204.28169891357422
 Flavouring - Orange,14,183.47,Visa,33.5 %,122.00755081176757
-Juice - Orange Concentrate,11,95.39,Visa,14.0 %,82.03539947509765
-Bonito Flakes - Toku Katsuo,12,96.35,Visa,7.0 %,89.60549858093262
-Bread - Bistro White,15,68.7,Visa,10.0 %,61.82999725341797
-Bread - English Muffin,2,11.09,Visa,0.0 %,11.09000015258789
+Juice - Orange Concentrate,11,95.39,Visa,18.0 %,78.21979949951172
+Bonito Flakes - Toku Katsuo,12,96.35,Visa,6.0 %,90.56899856567382
+Bread - Bistro White,15,68.7,Visa,12.5 %,60.112497329711914
+Bread - English Muffin,2,11.09,Visa,5.0 %,10.535500144958496
 Nantuket Peach Orange,9,88.17,Cash,5.0 %,83.76149826049804
 Currants,11,87.0,Cash,7.0 %,80.91
 Wine - Red Gallo Merlot,14,171.66,Cash,6.0 %,161.36040344238282
-Cheese - Camembert,10,62.27,Visa,8.5 %,56.97705041885376
-Container - Hngd Cll Blk 7x7x3,17,247.07,Visa,10.0 %,222.36300659179688
-Tomatoes - Vine Ripe Red,9,197.06,Visa,5.0 %,187.20699768066407
-Durian Fruit,5,246.05,Visa,0.0 %,246.0500030517578
+Cheese - Camembert,10,62.27,Visa,10.0 %,56.04300041198731
+Container - Hngd Cll Blk 7x7x3,17,247.07,Visa,7.5 %,228.53975677490234
+Tomatoes - Vine Ripe Red,9,197.06,Visa,7.5 %,182.2804977416992
+Durian Fruit,5,246.05,Visa,5.0 %,233.74750289916992
 Veal - Shank Pieces,15,64.0,Cash,30.0 %,44.8
 Container - Clear 32 Oz,14,201.77,Visa,6.5 %,188.65495399475097
-Soup - Campbells - Chicken Noodle,15,126.29,Visa,10.0 %,113.6610008239746
+Soup - Campbells - Chicken Noodle,15,126.29,Visa,12.5 %,110.50375080108643
 Rice - Aborio,6,16.2,Cash,5.0 %,15.39000072479248
-Wine - Fume Blanc Fetzer,14,93.19,Visa,6.0 %,87.59860229492188
-Beef - Salted,1,83.46,Visa,0.0 %,83.45999908447266
+Wine - Fume Blanc Fetzer,14,93.19,Visa,11.0 %,82.93910217285156
+Beef - Salted,1,83.46,Visa,5.0 %,79.28699913024903
 Pastry - French Mini Assorted,6,220.44,Cash,4.5 %,210.52020233154298
-Liners - Baking Cups,4,1.45,Visa,0.0 %,1.4500000476837158
-Cookie - Oatmeal,8,67.93,Visa,11.0 %,60.45770027160644
-Pastry - Banana Tea Loaf,7,174.86,Visa,5.0 %,166.11700057983398
+Liners - Baking Cups,4,1.45,Visa,5.0 %,1.37750004529953
+Cookie - Oatmeal,8,67.93,Visa,13.5 %,58.75945026397705
+Pastry - Banana Tea Loaf,7,174.86,Visa,7.5 %,161.7455005645752
 Broom And Brush Rack Black,12,236.64,Visa,36.0 %,151.449599609375
 Fish - Bones,5,194.87,Cash,0.0 %,194.8699951171875
 Pie Shell - 5,7,182.98,Visa,13.0 %,159.192596282959
-Wine - White Colubia Cresh,16,142.82,Visa,11.0 %,127.10980651855469
-Celery Root,10,6.28,Visa,14.5 %,5.369400179386139
-Longos - Greek Salad,8,86.7,Visa,5.0 %,82.36499710083008
+Wine - White Colubia Cresh,16,142.82,Visa,16.0 %,119.96880615234375
+Celery Root,10,6.28,Visa,16.0 %,5.2752001762390135
+Longos - Greek Salad,8,86.7,Visa,7.5 %,80.19749717712402
 Puree - Raspberry,16,13.46,Cash,17.0 %,11.171800031661988
-Calvados - Boulard,4,228.68,Visa,28.0 %,164.6495947265625
+Calvados - Boulard,4,228.68,Visa,16.5 %,190.94779388427736
 Scampi Tail,14,187.9,Cash,7.0 %,174.74699432373046
-Island Oasis - Ice Cream Mix,10,123.17,Visa,6.0 %,115.7797982788086
+Island Oasis - Ice Cream Mix,10,123.17,Visa,8.5 %,112.70054832458496
 Plasticforkblack,17,162.91,Cash,10.0 %,146.61900329589844
 Bread - 10 Grain Parisian,3,228.82,Cash,4.0 %,219.66720703125
 Kale - Red,4,218.31,Cash,15.0 %,185.5634979248047
 Wine - Casillero Deldiablo,7,22.82,Cash,5.0 %,21.67899971008301
 Maintenance Removal Charge,16,197.57,Cash,10.0 %,177.81300659179686
 Tea - Mint,13,156.99,Cash,7.0 %,146.0007051086426
-Cookie - Oreo 100x2,16,145.35,Visa,14.5 %,124.27425521850586
+Cookie - Oreo 100x2,16,145.35,Visa,19.5 %,117.00675491333007
 Compound - Pear,12,16.86,Cash,7.0 %,15.679800567626954
-The Pop Shoppe Pinapple,15,28.4,Visa,10.0 %,25.559999656677245
+The Pop Shoppe Pinapple,15,28.4,Visa,7.5 %,26.2699996471405
 Tarragon - Primerba Paste,12,4.44,Visa,7.0 %,4.129200053215027
 Straw - Regular,13,167.1,Cash,6.0 %,157.07400573730467
 Mussels - Cultivated,9,155.12,Visa,5.0 %,147.36399536132814
-Beef - Top Butt Aaa,7,75.8,Visa,5.0 %,72.01000289916992
+Beef - Top Butt Aaa,7,75.8,Visa,7.5 %,70.11500282287598
 Beer - Sleemans Honey Brown,9,195.62,Visa,15.0 %,166.27699584960936
 Bread - Pumpernickle Rounds,16,30.8,Cash,18.5 %,25.101999378204347
 Cheese - Cheddar With Claret,12,171.33,Cash,8.5 %,156.76695167541504
 Orange Roughy 6/8 Oz,3,144.86,Cash,0.0 %,144.86000061035156
 Quiche Assorted,13,194.39,Cash,7.0 %,180.78269943237305
-Cherries - Fresh,9,86.3,Visa,5.0 %,81.98500289916993
-Appetizer - Cheese Bites,6,127.16,Visa,7.5 %,117.62300338745118
+Cherries - Fresh,9,86.3,Visa,7.5 %,79.82750282287597
+Appetizer - Cheese Bites,6,127.16,Visa,10.0 %,114.44400329589844
 Wine - Barossa Valley Estate,16,166.47,Visa,7.5 %,153.9847511291504
-External Supplier,10,177.68,Visa,7.0 %,165.24239318847657
-The Pop Shoppe Pinapple,1,62.58,Visa,10.0 %,56.32200164794922
+External Supplier,10,177.68,Visa,8.5 %,162.57719329833984
+The Pop Shoppe Pinapple,1,62.58,Visa,7.5 %,57.886501693725585
 Wine - Red Gallo Merlot,15,210.55,Visa,7.5 %,194.75875282287598
 Beef - Top Butt Aaa,3,103.91,Cash,0.0 %,103.91000366210938
 Yoghurt Tubes,3,172.6,Cash,14.0 %,148.43600524902342
-Fudge - Chocolate Fudge,4,9.43,Visa,0.0 %,9.430000305175781
+Fudge - Chocolate Fudge,4,9.43,Visa,5.0 %,8.958500289916993
 Pickles - Gherkins,3,187.3,Cash,0.0 %,187.3000030517578
 Chef Hat 25cm,10,126.81,Visa,14.5 %,108.42254791259765
 Wheat - Soft Kernal Of Wheat,4,132.78,Cash,0.0 %,132.77999877929688
 Soup - Campbells Chili Veg,14,88.34,Cash,7.0 %,82.15619659423828
-Bread - Granary Small Pull,13,149.45,Visa,7.0 %,138.98849716186524
-Bananas,13,103.36,Visa,7.0 %,96.12480056762695
+Bread - Granary Small Pull,13,149.45,Visa,6.0 %,140.48299713134764
+Bananas,13,103.36,Visa,6.0 %,97.15840057373048
 Glaze - Apricot,16,29.3,Cash,10.0 %,26.36999931335449
 Wine - Taylors Reserve,16,51.5,Visa,7.5 %,47.6375
 Cheese - Havarti Salsa,7,37.1,Cash,7.5 %,34.31749858856201
-Nori Sea Weed - Gold Label,15,217.08,Visa,10.0 %,195.37200164794922
+Nori Sea Weed - Gold Label,15,217.08,Visa,12.5 %,189.94500160217285
 Wine La Vielle Ferme Cote Du,16,179.99,Cash,30.0 %,125.99300384521484
-Coffee - Frthy Coffee Crisp,11,155.69,Visa,7.0 %,144.7917022705078
-Marjoram - Dried Rubbed,2,25.33,Visa,0.0 %,25.329999923706055
+Coffee - Frthy Coffee Crisp,11,155.69,Visa,11.0 %,138.56410217285156
+Marjoram - Dried Rubbed,2,25.33,Visa,5.0 %,24.063499927520752
 The Pop Shoppe Pinapple,16,148.54,Cash,15.0 %,126.2589942932129
 Crawfish,11,173.66,Cash,12.0 %,152.82080322265625
-Pork - Bacon Double Smoked,2,108.18,Visa,0.0 %,108.18000030517578
-Beer - Upper Canada Light,3,137.12,Visa,0.0 %,137.1199951171875
-Napkin - Beverge White 2 - Ply,12,133.32,Visa,7.0 %,123.98760681152343
+Pork - Bacon Double Smoked,2,108.18,Visa,5.0 %,102.771000289917
+Beer - Upper Canada Light,3,137.12,Visa,5.0 %,130.2639953613281
+Napkin - Beverge White 2 - Ply,12,133.32,Visa,11.0 %,118.6548065185547
 Wine - Vineland Estate Semi - Dry,13,154.59,Visa,6.0 %,145.3145965576172
 Scrubbie - Scotchbrite Hand Pad,9,130.41,Cash,5.0 %,123.8895034790039
-Kellogs Raisan Bran Bars,1,49.13,Visa,0.0 %,49.130001068115234
-Wine - Rubyport,10,236.91,Visa,11.0 %,210.84990325927734
+Kellogs Raisan Bran Bars,1,49.13,Visa,5.0 %,46.67350101470947
+Wine - Rubyport,10,236.91,Visa,12.5 %,207.2962532043457
 Pumpkin,7,154.67,Visa,13.0 %,134.5628984069824
-Brandy Cherry - Mcguinness,10,118.87,Visa,7.0 %,110.5491025543213
+Brandy Cherry - Mcguinness,10,118.87,Visa,8.5 %,108.76605251312256
 Wine - Soave Folonari,1,123.96,Cash,12.0 %,109.08479919433594
 Tomatoes - Cherry,6,22.32,Cash,5.0 %,21.203999710083007
-Mousse - Banana Chocolate,9,194.32,Visa,5.0 %,184.6040069580078
+Mousse - Banana Chocolate,9,194.32,Visa,7.5 %,179.74600677490236
 Cheese - Brick With Pepper,1,122.85,Cash,11.0 %,109.33649864196778
-Flour - Chickpea,4,11.43,Visa,0.0 %,11.430000305175781
+Flour - Chickpea,4,11.43,Visa,5.0 %,10.858500289916993
 Tart Shells - Savory 2,8,107.87,Cash,5.0 %,102.47650260925293
-Clams - Bay,8,225.63,Visa,14.0 %,194.04180419921875
+Clams - Bay,8,225.63,Visa,16.5 %,188.40105407714844
 Honey - Comb,13,122.33,Cash,7.0 %,113.76690170288086
 Thyme - Dried,11,189.65,Cash,7.0 %,176.37449432373046
 V8 Splash Strawberry Kiwi,12,222.58,Cash,7.0 %,206.99940170288085
-Jameson Irish Whiskey,17,100.98,Visa,10.0 %,90.88200302124024
+Jameson Irish Whiskey,17,100.98,Visa,15.0 %,85.83300285339355
 Lemonade - Pineapple Passion,7,59.74,Cash,5.0 %,56.753001594543456
-Coconut - Creamed Pure,14,179.51,Visa,5.5 %,169.63694480895995
-Pepper - Chillies Crushed,14,177.57,Visa,7.0 %,165.14010681152342
-Petit Baguette,2,184.09,Visa,0.0 %,184.08999633789062
+Coconut - Creamed Pure,14,179.51,Visa,11.0 %,159.76389511108397
+Pepper - Chillies Crushed,14,177.57,Visa,11.0 %,158.0373065185547
+Petit Baguette,2,184.09,Visa,5.0 %,174.8854965209961
 Juice - Apple 500 Ml,1,148.21,Cash,26.5 %,108.93435493469238
 Onions - Spanish,15,147.93,Cash,10.0 %,133.13699340820312
-Wine - Carmenere Casillero Del,3,64.07,Visa,4.0 %,61.50719970703125
+Wine - Carmenere Casillero Del,3,64.07,Visa,5.0 %,60.866499710083005
 Chips Potato All Dressed - 43g,16,34.82,Cash,5.5 %,32.904899711608884
 Pastrami,1,153.31,Cash,0.0 %,153.30999755859375
 Sobe - Green Tea,6,43.28,Visa,5.0 %,41.11599884033203
 Cheese - La Sauvagine,15,212.0,Cash,10.0 %,190.8
 Jicama,10,236.23,Cash,7.0 %,219.69389602661133
-Wine - Sicilia Igt Nero Avola,4,199.37,Visa,3.5 %,192.39204528808594
+Wine - Sicilia Igt Nero Avola,4,199.37,Visa,5.0 %,189.40149536132813
 Ginger - Crystalized,6,112.72,Cash,5.0 %,107.08400115966796
-Blue Curacao - Marie Brizard,13,83.43,Visa,7.0 %,77.58990028381348
-Pail - 15l White With Handle,11,232.62,Visa,7.0 %,216.33659545898436
+Blue Curacao - Marie Brizard,13,83.43,Visa,6.0 %,78.42420028686523
+Pail - 15l White With Handle,11,232.62,Visa,6.0 %,218.66279541015626
 Pork - Kidney,17,190.32,Cash,10.0 %,171.2880065917969
-Table Cloth - 53x69 Colour,3,3.83,Visa,0.0 %,3.8299999237060547
-Ostrich - Prime Cut,13,39.62,Visa,7.0 %,36.84659900665283
+Table Cloth - 53x69 Colour,3,3.83,Visa,5.0 %,3.638499927520752
+Ostrich - Prime Cut,13,39.62,Visa,11.0 %,35.261799049377444
 Potatoes - Peeled,3,110.03,Cash,0.0 %,110.02999877929688
-Fish - Artic Char Cold Smoked,1,135.58,Visa,0.0 %,135.5800018310547
-Oil - Canola,12,171.54,Visa,7.0 %,159.5321937561035
+Fish - Artic Char Cold Smoked,1,135.58,Visa,5.0 %,128.80100173950194
+Oil - Canola,12,171.54,Visa,6.0 %,161.24759368896486
 Bread - English Muffin,7,247.0,Visa,5.0 %,234.65
-Table Cloth 120 Round White,17,114.51,Visa,10.0 %,103.05900192260742
-Pork Ham Prager,11,38.62,Visa,7.0 %,35.91659900665283
-Dc - Frozen Momji,12,228.91,Visa,7.0 %,212.8863034057617
+Table Cloth 120 Round White,17,114.51,Visa,15.0 %,97.3335018157959
+Pork Ham Prager,11,38.62,Visa,11.0 %,34.371799049377444
+Dc - Frozen Momji,12,228.91,Visa,11.0 %,203.72990325927734
 Yeast Dry - Fermipan,3,173.94,Cash,0.0 %,173.94000244140625
 Veal Inside - Provimi,11,4.73,Cash,7.0 %,4.398900017738343
-Pepper - Chillies Crushed,1,70.85,Visa,0.0 %,70.8499984741211
-Chef Hat 20cm,2,25.15,Visa,0.0 %,25.149999618530273
-Oil - Olive Extra Virgin,16,24.09,Visa,10.0 %,21.6810001373291
-Basil - Thai,4,237.09,Visa,0.0 %,237.08999633789062
+Pepper - Chillies Crushed,1,70.85,Visa,5.0 %,67.30749855041503
+Chef Hat 20cm,2,25.15,Visa,5.0 %,23.89249963760376
+Oil - Olive Extra Virgin,16,24.09,Visa,15.0 %,20.47650012969971
+Basil - Thai,4,237.09,Visa,5.0 %,225.2354965209961
 Fennel - Seeds,6,216.99,Cash,5.0 %,206.14050521850587
-Gingerale - Schweppes 355 Ml,3,11.12,Visa,15.0 %,9.45199990272522
+Gingerale - Schweppes 355 Ml,3,11.12,Visa,10.0 %,10.007999897003174
 Duck - Whole,17,161.92,Cash,10.0 %,145.72799835205078
 Truffle - Whole Black Peeled,7,200.92,Visa,12.5 %,175.80499839782715
 Lobak,1,123.8,Cash,0.0 %,123.80000305175781
@@ -316,130 +316,130 @@ Plate Foam Laminated 9in Blk,10,214.18,Cash,11.5 %,189.5492935180664
 Pasta - Penne Lisce Dry,5,83.36,Cash,0.0 %,83.36000061035156
 Chocolate - Milk Callets,3,54.68,Cash,3.0 %,53.03960029602051
 Bagel - Ched Chs Presliced,4,143.13,Cash,0.0 %,143.1300048828125
-Horseradish Root,14,140.21,Visa,15.5 %,118.47745567321778
-Bamboo Shoots - Sliced,17,4.37,Visa,6.5 %,4.085949892997742
-Sauce - Oyster,1,171.96,Visa,0.0 %,171.9600067138672
+Horseradish Root,14,140.21,Visa,19.5 %,112.86905540466309
+Bamboo Shoots - Sliced,17,4.37,Visa,15.0 %,3.71449990272522
+Sauce - Oyster,1,171.96,Visa,5.0 %,163.36200637817382
 Cotton Wet Mop 16 Oz,4,206.75,Cash,0.0 %,206.75
 Cheese - Marble,11,95.2,Cash,8.5 %,87.1079972076416
-Wine - Cotes Du Rhone Parallele,7,249.5,Visa,6.0 %,234.53
-Mop Head - Cotton 24 Oz,15,103.03,Visa,10.0 %,92.72699890136718
-Eggwhite Frozen,14,239.98,Visa,7.0 %,223.18139602661134
-Truffle Cups - Brown,5,151.69,Visa,0.0 %,151.69000244140625
-Muskox - French Rack,10,61.34,Visa,7.0 %,57.04620014190674
+Wine - Cotes Du Rhone Parallele,7,249.5,Visa,8.5 %,228.2925
+Mop Head - Cotton 24 Oz,15,103.03,Visa,7.5 %,95.30274887084961
+Eggwhite Frozen,14,239.98,Visa,6.0 %,225.58119598388672
+Truffle Cups - Brown,5,151.69,Visa,5.0 %,144.10550231933593
+Muskox - French Rack,10,61.34,Visa,8.5 %,56.12610013961792
 Sprite Diet - 355ml,17,4.52,Cash,17.5 %,3.728999984264374
-Burger Veggie,10,119.32,Visa,7.0 %,110.96759971618653
-Food Colouring - Orange,12,110.22,Visa,7.0 %,102.5046011352539
-Truffle Cups - White Paper,11,191.82,Visa,7.0 %,178.39260681152342
-Ostrich - Prime Cut,7,249.79,Visa,5.0 %,237.30049362182618
-Sole - Iqf,17,235.06,Visa,10.0 %,211.5539978027344
+Burger Veggie,10,119.32,Visa,6.0 %,112.16079971313476
+Food Colouring - Orange,12,110.22,Visa,11.0 %,98.09580108642578
+Truffle Cups - White Paper,11,191.82,Visa,11.0 %,170.7198065185547
+Ostrich - Prime Cut,7,249.79,Visa,7.5 %,231.05574378967285
+Sole - Iqf,17,235.06,Visa,15.0 %,199.80099792480468
 Muffin Batt - Carrot Spice,3,43.01,Cash,0.0 %,43.0099983215332
 Pork - Chop Frenched,11,56.66,Cash,7.0 %,52.693799858093264
 Bread - Roll Whole Wheat,9,163.09,Visa,5.5 %,154.12004653930663
-Island Oasis - Peach Daiquiri,15,199.42,Visa,10.0 %,179.47799835205078
-Cheese - Gouda,1,214.08,Visa,10.0 %,192.67200164794923
-Food Colouring - Green,3,244.82,Visa,0.0 %,244.82000732421875
-Bread - White Sliced,11,3.7,Visa,7.0 %,3.4410000443458557
-Parsley - Fresh,12,174.57,Visa,7.0 %,162.35010681152343
+Island Oasis - Peach Daiquiri,15,199.42,Visa,7.5 %,184.4634983062744
+Cheese - Gouda,1,214.08,Visa,7.5 %,198.02400169372558
+Food Colouring - Green,3,244.82,Visa,5.0 %,232.57900695800782
+Bread - White Sliced,11,3.7,Visa,11.0 %,3.293000042438507
+Parsley - Fresh,12,174.57,Visa,11.0 %,155.3673065185547
 Pop - Club Soda Can,2,199.86,Cash,0.0 %,199.86000061035156
-Muffin Hinge 117n,3,23.57,Visa,0.0 %,23.56999969482422
-Hipnotiq Liquor,1,132.92,Visa,0.0 %,132.9199981689453
-Jameson - Irish Whiskey,10,94.05,Visa,5.0 %,89.34750289916992
+Muffin Hinge 117n,3,23.57,Visa,5.0 %,22.391499710083007
+Hipnotiq Liquor,1,132.92,Visa,5.0 %,126.27399826049805
+Jameson - Irish Whiskey,10,94.05,Visa,8.5 %,86.05575279235839
 Peas Snow,12,201.55,Cash,7.0 %,187.44150283813477
-Soup - Knorr Ministrone,7,166.86,Visa,5.0 %,158.517000579834
-Soup Campbells Split Pea And Ham,6,88.86,Visa,5.0 %,84.41700057983398
+Soup - Knorr Ministrone,7,166.86,Visa,7.5 %,154.3455005645752
+Soup Campbells Split Pea And Ham,6,88.86,Visa,7.5 %,82.1955005645752
 Beef - Ox Tongue,9,41.68,Visa,5.0 %,39.596000289916994
 Water - Aquafina Vitamin,3,173.65,Cash,9.0 %,158.02149444580078
-Sesame Seed,5,227.34,Visa,0.0 %,227.33999633789062
+Sesame Seed,5,227.34,Visa,5.0 %,215.9729965209961
 Wine - Soave Folonari,11,158.85,Visa,6.0 %,149.31900573730468
-Pork - Ham Hocks - Smoked,6,142.45,Visa,5.0 %,135.32749710083007
+Pork - Ham Hocks - Smoked,6,142.45,Visa,7.5 %,131.76624717712403
 Cheese - Woolwich Goat Log,15,213.3,Cash,10.0 %,191.97000274658203
-Bread - Roll Calabrese,11,21.13,Visa,7.0 %,19.65089921951294
-Pork - Smoked Back Bacon,10,221.82,Visa,7.0 %,206.29260681152343
-Compound - Raspberry,17,105.46,Visa,10.0 %,94.91399917602538
-Mousse - Banana Chocolate,5,117.79,Visa,0.0 %,117.79000091552734
+Bread - Roll Calabrese,11,21.13,Visa,11.0 %,18.805699253082274
+Pork - Smoked Back Bacon,10,221.82,Visa,8.5 %,202.96530670166015
+Compound - Raspberry,17,105.46,Visa,7.5 %,97.55049915313721
+Mousse - Banana Chocolate,5,117.79,Visa,5.0 %,111.90050086975097
 Flour - Chickpea,6,175.29,Visa,9.0 %,159.51389389038087
 Wine - Baron De Rothschild,16,230.14,Cash,7.5 %,212.8794994354248
-Tart Shells - Savory 3,10,91.41,Visa,7.0 %,85.01130340576172
+Tart Shells - Savory 3,10,91.41,Visa,8.5 %,83.64015335083008
 Gelatine Leaves - Envelopes,4,154.74,Cash,0.0 %,154.74000549316406
-Soup - Campbells Beef Barley,7,11.2,Visa,6.5 %,10.471999821662903
+Soup - Campbells Beef Barley,7,11.2,Visa,9.0 %,10.191999826431275
 Sugar - Sweet N Low Individual,1,176.87,Cash,26.0 %,130.88379638671876
 Flour - Fast / Rapid,3,196.76,Cash,0.0 %,196.75999450683594
 Flower - Leather Leaf Fern,8,108.89,Cash,5.0 %,103.44549942016602
 Potatoes - Mini Red,17,19.03,Cash,10.0 %,17.127000617980958
-Cheese - Brick With Pepper,7,179.52,Visa,7.5 %,166.05600395202637
+Cheese - Brick With Pepper,7,179.52,Visa,10.0 %,161.56800384521483
 Tea - Decaf 1 Cup,5,44.48,Cash,14.0 %,38.252799606323244
-Wine - Prosecco Valdobienne,12,175.86,Visa,7.0 %,163.54980056762696
-Wonton Wrappers,17,245.21,Visa,10.0 %,220.68900604248046
-Oranges,16,168.9,Visa,30.0 %,118.22999572753906
+Wine - Prosecco Valdobienne,12,175.86,Visa,11.0 %,156.51540054321288
+Wonton Wrappers,17,245.21,Visa,15.0 %,208.42850570678712
+Oranges,16,168.9,Visa,35.0 %,109.78499603271484
 Vodka - Smirnoff,6,22.11,Cash,8.5 %,20.23065055847168
-Doilies - 7 Paper,14,114.09,Visa,7.0 %,106.10369659423829
-Sauce - Vodka Blush,17,11.78,Visa,10.0 %,10.601999759674072
+Doilies - 7 Paper,14,114.09,Visa,11.0 %,101.54009674072266
+Sauce - Vodka Blush,17,11.78,Visa,15.0 %,10.012999773025513
 Fruit Salad Deluxe,12,121.28,Cash,7.0 %,112.7903988647461
 Tray - 16in Rnd Blk,6,167.8,Visa,5.0 %,159.4100028991699
-Shallots,6,193.62,Visa,5.0 %,183.93899536132812
-Lobak,2,62.86,Visa,14.0 %,54.05960052490234
+Shallots,6,193.62,Visa,7.5 %,179.09849548339844
+Lobak,2,62.86,Visa,9.5 %,56.888300552368165
 The Pop Shoppe - Black Cherry,7,56.81,Cash,5.0 %,53.96950130462646
 Cheese - Le Cru Du Clocher,6,66.27,Cash,15.0 %,56.32949714660644
-Bread - Sticks Thin Plain,10,187.56,Visa,4.5 %,179.11979766845704
+Bread - Sticks Thin Plain,10,187.56,Visa,8.5 %,171.61739776611327
 Assorted Desserts,7,15.94,Visa,13.0 %,13.867799634933473
-Shrimp - 31/40,17,127.13,Visa,10.0 %,114.41699752807617
+Shrimp - 31/40,17,127.13,Visa,15.0 %,108.06049766540528
 Appetizer - Shrimp Puff,16,12.4,Cash,17.0 %,10.291999683380126
 Shortbread - Cookie Crumbs,6,105.47,Cash,5.0 %,100.19650115966797
 Sausage - Meat,1,234.17,Cash,0.0 %,234.1699981689453
 Raspberries - Frozen,9,193.27,Cash,5.0 %,183.60650405883788
 Carbonated Water - Lemon Lime,3,17.15,Cash,15.0 %,14.577499675750733
-Cookie Dough - Oatmeal Rasin,1,221.69,Visa,10.0 %,199.52100219726563
+Cookie Dough - Oatmeal Rasin,1,221.69,Visa,7.5 %,205.0632522583008
 Coffee Cup 16oz Foam,12,188.64,Cash,7.0 %,175.43519943237305
 Cheese - Swiss,8,197.96,Visa,7.5 %,183.11300621032714
 Flour - Whole Wheat,15,230.0,Cash,10.0 %,207.0
-Tobasco Sauce,1,158.62,Visa,24.0 %,120.5511962890625
-Vegetable - Base,4,7.2,Visa,0.0 %,7.199999809265137
-Macaroons - Two Bite Choc,4,180.79,Visa,0.0 %,180.7899932861328
+Tobasco Sauce,1,158.62,Visa,14.5 %,135.6200958251953
+Vegetable - Base,4,7.2,Visa,5.0 %,6.83999981880188
+Macaroons - Two Bite Choc,4,180.79,Visa,5.0 %,171.75049362182617
 Iced Tea - Lemon 460 Ml,13,7.96,Cash,12.0 %,7.004800033569336
 Cookie Chocolate Chip With,3,101.45,Cash,0.0 %,101.44999694824219
-Wine - Chardonnay Mondavi,8,62.95,Visa,5.0 %,59.80250072479248
-Kale - Red,17,125.13,Visa,10.0 %,112.61699752807617
-Chevere Logs,6,99.87,Visa,5.0 %,94.87650260925292
+Wine - Chardonnay Mondavi,8,62.95,Visa,7.5 %,58.228750705718994
+Kale - Red,17,125.13,Visa,7.5 %,115.74524745941162
+Chevere Logs,6,99.87,Visa,7.5 %,92.37975254058838
 Fondant - Icing,8,161.12,Visa,5.0 %,153.06399536132812
 Table Cloth 53x53 White,8,245.07,Cash,8.5 %,224.23905670166016
-Soup - Campbells Asian Noodle,2,213.54,Visa,6.0 %,200.72759368896484
+Soup - Campbells Asian Noodle,2,213.54,Visa,5.5 %,201.7952936553955
 Pate - Cognac,12,223.77,Cash,7.0 %,208.10610397338866
 Turnip - White,1,239.67,Cash,0.0 %,239.6699981689453
 Cheese - Woolwich Goat Log,6,153.26,Cash,7.5 %,141.76549491882324
-Oil - Shortening - All - Purpose,17,145.27,Visa,10.0 %,130.74300384521484
+Oil - Shortening - All - Purpose,17,145.27,Visa,15.0 %,123.4795036315918
 Thyme - Fresh,3,29.72,Cash,0.0 %,29.719999313354492
 Hagen Daza - Dk Choocolate,15,122.94,Visa,18.0 %,100.81080200195312
-Yoplait - Strawbrasp Peac,5,69.06,Visa,0.0 %,69.05999755859375
-Cream - 35%,7,203.34,Visa,5.0 %,193.1729965209961
-Lemon Balm - Fresh,14,58.77,Visa,7.0 %,54.65610042572021
+Yoplait - Strawbrasp Peac,5,69.06,Visa,5.0 %,65.60699768066407
+Cream - 35%,7,203.34,Visa,7.5 %,188.08949661254883
+Lemon Balm - Fresh,14,58.77,Visa,11.0 %,52.30530040740967
 Cheese - Grie Des Champ,6,40.56,Visa,7.5 %,37.51800127029419
 Stock - Beef White,9,60.72,Cash,5.0 %,57.68400115966797
-Onions - Cippolini,4,161.28,Visa,15.0 %,137.08799896240234
-Beef - Tender Tips,3,5.69,Visa,24.0 %,4.3244000434875485
+Onions - Cippolini,4,161.28,Visa,10.0 %,145.1519989013672
+Beef - Tender Tips,3,5.69,Visa,14.5 %,4.864950048923492
 Beer - Guiness,16,232.34,Cash,19.5 %,187.03369705200197
-Soup - Campbells Beef Stew,2,208.53,Visa,0.0 %,208.52999877929688
+Soup - Campbells Beef Stew,2,208.53,Visa,5.0 %,198.10349884033204
 Soup - Chicken And Wild Rice,12,126.06,Cash,7.0 %,117.23579772949219
-Ice Cream - Life Savers,13,6.12,Visa,7.0 %,5.691599893569946
+Ice Cream - Life Savers,13,6.12,Visa,6.0 %,5.7527998924255375
 Pork - Backfat,3,209.35,Cash,0.0 %,209.35000610351562
 Pecan Raisin - Tarts,14,122.75,Cash,9.0 %,111.7025
 Brocolinni - Gaylan Chinese,6,111.13,Cash,12.0 %,97.79439758300781
-Cheese - Manchego Spanish,15,7.6,Visa,10.0 %,6.8399999141693115
+Cheese - Manchego Spanish,15,7.6,Visa,12.5 %,6.649999916553497
 Mustard - Pommery,14,125.39,Cash,7.0 %,116.61269943237305
-Potatoes - Mini Red,11,225.48,Visa,7.0 %,209.69639602661132
+Potatoes - Mini Red,11,225.48,Visa,6.0 %,211.95119598388672
 Pastry - Carrot Muffin - Mini,6,241.17,Cash,3.0 %,233.93489822387696
 Sparkling Wine - Rose Freixenet,15,245.79,Cash,17.0 %,204.00569442749023
-Jam - Blackberry 20 Ml Jar,14,64.57,Visa,7.0 %,60.05009971618652
-Stock - Fish,12,94.25,Visa,7.0 %,87.6525
+Jam - Blackberry 20 Ml Jar,14,64.57,Visa,6.0 %,60.69579971313477
+Stock - Fish,12,94.25,Visa,11.0 %,83.8825
 Poppy Seed,9,51.14,Visa,5.0 %,48.58299942016602
-Fond - Neutral,15,108.81,Visa,10.0 %,97.92899780273437
-Artichoke - Fresh,14,219.95,Visa,7.0 %,204.55349716186524
+Fond - Neutral,15,108.81,Visa,7.5 %,100.64924774169921
+Artichoke - Fresh,14,219.95,Visa,11.0 %,195.75549728393554
 Muffin - Zero Transfat,3,127.44,Cash,0.0 %,127.44000244140625
-Soup - Campbells Bean Medley,16,162.4,Visa,10.0 %,146.15999450683594
+Soup - Campbells Bean Medley,16,162.4,Visa,15.0 %,138.0399948120117
 Canadian Emmenthal,16,240.98,Cash,10.5 %,215.67709617614747
-Corn - On The Cob,15,245.09,Visa,10.0 %,220.58099670410155
-Lamb Rack Frenched Australian,1,138.86,Visa,0.0 %,138.86000061035156
-Pastry - Baked Cinnamon Stick,17,166.51,Visa,10.0 %,149.85899505615234
-Tortillas - Flour 12,6,49.16,Visa,8.0 %,45.22719985961914
+Corn - On The Cob,15,245.09,Visa,12.5 %,214.4537467956543
+Lamb Rack Frenched Australian,1,138.86,Visa,5.0 %,131.917000579834
+Pastry - Baked Cinnamon Stick,17,166.51,Visa,7.5 %,154.02174491882323
+Tortillas - Flour 12,6,49.16,Visa,10.5 %,43.99819986343384
 Steampan - Lid For Half Size,15,233.85,Cash,10.0 %,210.46500549316406
 Capon - Breast Double Wing On,3,220.85,Cash,0.0 %,220.85000610351562
 Loquat,14,174.21,Cash,7.0 %,162.01530624389648
@@ -447,25 +447,25 @@ Juice - Ocean Spray Cranberry,7,189.75,Visa,5.0 %,180.2625
 Beef - Inside Round,7,1.36,Cash,5.0 %,1.292000013589859
 Pancetta,6,181.83,Visa,5.0 %,172.73850173950194
 Garlic - Elephant,17,132.65,Cash,15.0 %,112.75249481201172
-Ranchero - Primerba Paste,8,162.54,Visa,5.0 %,154.41299362182616
+Ranchero - Primerba Paste,8,162.54,Visa,7.5 %,150.34949378967286
 Wine - Charddonnay Errazuriz,3,92.21,Visa,5.0 %,87.59949913024903
-Potatoes - Peeled,5,78.01,Visa,0.0 %,78.01000213623047
+Potatoes - Peeled,5,78.01,Visa,5.0 %,74.10950202941895
 Triple Sec - Mcguinness,4,44.35,Cash,10.0 %,39.914998626708986
 Longos - Penne With Pesto,15,186.92,Cash,16.0 %,157.01279846191406
-Onions - Red Pearl,2,208.6,Visa,0.0 %,208.60000610351562
-Pepper - Black Crushed,16,152.4,Visa,10.0 %,137.15999450683594
-Fond - Neutral,11,103.06,Visa,7.0 %,95.84579772949219
-Beer - Paulaner Hefeweisse,13,37.05,Visa,7.0 %,34.45649929046631
-Sage Derby,12,41.48,Visa,7.0 %,38.57639957427978
-Pasta - Fusili Tri - Coloured,17,70.45,Visa,10.0 %,63.40499725341797
-Lady Fingers,13,223.14,Visa,17.0 %,185.2061994934082
+Onions - Red Pearl,2,208.6,Visa,5.0 %,198.17000579833984
+Pepper - Black Crushed,16,152.4,Visa,7.5 %,140.96999435424806
+Fond - Neutral,11,103.06,Visa,11.0 %,91.72339782714843
+Beer - Paulaner Hefeweisse,13,37.05,Visa,6.0 %,34.826999282836915
+Sage Derby,12,41.48,Visa,11.0 %,36.91719959259033
+Pasta - Fusili Tri - Coloured,17,70.45,Visa,15.0 %,59.88249740600586
+Lady Fingers,13,223.14,Visa,21.0 %,176.28059951782228
 Pop - Club Soda Can,7,128.83,Cash,5.0 %,122.38850173950195
-Cardamon Ground,7,84.84,Visa,5.0 %,80.59799652099609
-Ice Cream - Life Savers,5,53.47,Visa,25.0 %,40.102500915527344
-Five Alive Citrus,4,51.52,Visa,23.0 %,39.670400352478026
+Cardamon Ground,7,84.84,Visa,7.5 %,78.47699661254883
+Ice Cream - Life Savers,5,53.47,Visa,15.0 %,45.449501037597656
+Five Alive Citrus,4,51.52,Visa,14.0 %,44.30720039367676
 Bagel - 12 Grain Preslice,7,169.41,Visa,5.0 %,160.93950347900392
 Cheese - Augre Des Champs,15,113.75,Cash,10.0 %,102.375
-Chocolate - Milk Callets,1,57.02,Visa,0.0 %,57.02000045776367
+Chocolate - Milk Callets,1,57.02,Visa,5.0 %,54.169000434875485
 Tea Leaves - Oolong,14,75.78,Cash,17.0 %,62.897398986816405
 Chilli Paste Hot Sambal Oelek,15,20.58,Cash,10.0 %,18.52199993133545
 Red Cod Fillets - 225g,14,234.77,Cash,7.0 %,218.33610397338867
@@ -474,62 +474,62 @@ Bread - Assorted Rolls,2,214.24,Cash,0.0 %,214.24000549316406
 Cocktail Napkin Blue,3,5.02,Cash,0.0 %,5.019999980926514
 Soup - French Onion Dry,7,157.84,Visa,5.0 %,149.9479965209961
 Coffee - Irish Cream,12,201.33,Cash,5.0 %,191.26350173950195
-Glycerine,16,240.75,Visa,10.0 %,216.675
+Glycerine,16,240.75,Visa,15.0 %,204.6375
 Lobster - Base,6,232.62,Cash,5.0 %,220.98899536132814
 Milk - Skim,16,82.01,Visa,14.5 %,70.11855182647705
 Cookie Choc,14,236.92,Cash,7.0 %,220.33559829711913
-Beer - Steamwhistle,16,64.97,Visa,10.0 %,58.473001098632814
+Beer - Steamwhistle,16,64.97,Visa,15.0 %,55.224501037597655
 Spinach - Spinach Leaf,4,71.74,Cash,0.0 %,71.73999786376953
-Chinese Foods - Chicken Wing,16,215.06,Visa,10.0 %,193.5539978027344
+Chinese Foods - Chicken Wing,16,215.06,Visa,15.0 %,182.80099792480468
 Cranberries - Frozen,9,215.56,Cash,13.5 %,186.4593978881836
 Soup - Campbells Chili,15,116.4,Cash,10.0 %,104.76000137329102
 General Purpose Trigger,9,243.88,Cash,16.0 %,204.8592041015625
-Liqueur Banana Ramazzotti,13,131.39,Visa,17.5 %,108.39674949645996
+Liqueur Banana Ramazzotti,13,131.39,Visa,21.5 %,103.14114952087402
 Bagelers,16,202.73,Cash,10.0 %,182.45699615478514
 Chocolate Bar - Smarties,6,36.23,Visa,5.0 %,34.41849956512451
 Longos - Greek Salad,16,49.18,Cash,30.0 %,34.42600021362305
 Beer - Blue Light,8,38.44,Cash,5.0 %,36.517998695373535
-Ice Cream - Super Sandwich,16,63.29,Visa,10.0 %,56.96100082397461
-Bacardi Breezer - Tropical,11,6.02,Visa,7.0 %,5.598599982261658
-Beef - Montreal Smoked Brisket,15,214.75,Visa,10.0 %,193.275
+Ice Cream - Super Sandwich,16,63.29,Visa,15.0 %,53.796500778198244
+Bacardi Breezer - Tropical,11,6.02,Visa,11.0 %,5.357799983024597
+Beef - Montreal Smoked Brisket,15,214.75,Visa,12.5 %,187.90625
 Sprouts Dikon,11,198.74,Cash,7.0 %,184.82820510864258
 Pasta - Bauletti Chicken White,9,210.88,Cash,5.0 %,200.33600463867188
 Chicken - Ground,12,91.7,Cash,8.0 %,84.36399719238281
 Wine - White French Cross,14,105.92,Cash,6.0 %,99.5647982788086
 Appetizer - Tarragon Chicken,12,217.6,Cash,7.0 %,202.36800567626952
 Phyllo Dough,7,249.92,Cash,5.0 %,237.42399826049805
-Cheese - Camembert,6,75.17,Visa,7.5 %,69.53224830627441
+Cheese - Camembert,6,75.17,Visa,10.0 %,67.65299835205079
 Jam - Raspberry,3,71.6,Cash,1.0 %,70.88399848937988
 Wine - Pinot Noir Mondavi Coastal,15,114.42,Cash,18.0 %,93.82439849853516
-Creamers - 10%,16,182.77,Visa,10.0 %,164.49300384521484
+Creamers - 10%,16,182.77,Visa,15.0 %,155.3545036315918
 Wine - Chablis 2003 Champs,10,88.12,Cash,6.0 %,82.8328025817871
 Wine - Rosso Del Veronese Igt,10,110.96,Cash,6.0 %,104.3023991394043
-Filter - Coffee,12,48.79,Visa,7.0 %,45.37470085144043
+Filter - Coffee,12,48.79,Visa,6.0 %,45.862600860595705
 Ice Cream Bar - Oreo Sandwich,7,233.66,Cash,5.0 %,221.9770034790039
 Ham - Proscuitto,14,162.01,Visa,28.5 %,115.8371460723877
-Juice - Apple 341 Ml,9,65.97,Visa,15.5 %,55.74465103149414
-Magnotta Bel Paese Red,4,9.69,Visa,0.0 %,9.6899995803833
+Juice - Apple 341 Ml,9,65.97,Visa,18.0 %,54.095401000976565
+Magnotta Bel Paese Red,4,9.69,Visa,5.0 %,9.205499601364135
 Sauce Bbq Smokey,1,111.91,Cash,0.0 %,111.91000366210938
-Mix Pina Colada,11,132.35,Visa,7.0 %,123.08550567626953
-Chicken - Whole Roasting,3,226.77,Visa,0.0 %,226.77000427246094
-Sprouts - Peppercress,15,83.76,Visa,10.0 %,75.38400192260742
+Mix Pina Colada,11,132.35,Visa,6.0 %,124.40900573730468
+Chicken - Whole Roasting,3,226.77,Visa,5.0 %,215.4315040588379
+Sprouts - Peppercress,15,83.76,Visa,12.5 %,73.29000186920166
 Sugar Thermometer,9,35.86,Cash,5.0 %,34.06700057983399
-Butter - Pod,9,6.64,Visa,6.0 %,6.24159987449646
+Butter - Pod,9,6.64,Visa,8.5 %,6.07559987783432
 Garam Marsala,8,42.36,Cash,3.5 %,40.87740058898926
 Mudslide,7,128.4,Cash,5.0 %,121.97999420166016
 Ecolab - Ster Bac,7,127.84,Visa,5.0 %,121.4479965209961
 Noodles - Cellophane Thin,17,171.0,Cash,10.0 %,153.9
 Appetizer - Southwestern,11,124.86,Cash,7.0 %,116.11980056762695
-Thyme - Dried,3,85.66,Visa,0.0 %,85.66000366210938
-Coffee - French Vanilla Frothy,4,181.44,Visa,16.0 %,152.40960205078125
+Thyme - Dried,3,85.66,Visa,5.0 %,81.3770034790039
+Coffee - French Vanilla Frothy,4,181.44,Visa,10.5 %,162.38880218505858
 Ecolab - Solid Fusion,4,11.47,Cash,0.0 %,11.470000267028809
 Sour Puss - Tangerine,9,187.57,Visa,5.0 %,178.1915069580078
 Napkin Colour,3,95.55,Cash,0.0 %,95.55000305175781
-Passion Fruit,5,47.25,Visa,2.0 %,46.305
-Beef - Tenderloin Tails,6,216.68,Visa,5.0 %,205.8459930419922
-Calypso - Strawberry Lemonade,8,136.78,Visa,6.5 %,127.88929885864258
-Soupfoamcont12oz 112con,13,60.32,Visa,7.0 %,56.09759971618652
-Fudge - Cream Fudge,12,225.99,Visa,14.0 %,194.3514047241211
+Passion Fruit,5,47.25,Visa,3.5 %,45.59625
+Beef - Tenderloin Tails,6,216.68,Visa,7.5 %,200.42899322509766
+Calypso - Strawberry Lemonade,8,136.78,Visa,9.0 %,124.46979888916016
+Soupfoamcont12oz 112con,13,60.32,Visa,6.0 %,56.700799713134764
+Fudge - Cream Fudge,12,225.99,Visa,18.0 %,185.31180450439453
 Gingerale - Diet - Schweppes,10,193.2,Visa,12.0 %,170.01599731445313
 Trueblue - Blueberry 12x473ml,3,51.38,Cash,0.0 %,51.380001068115234
 Calypso - Black Cherry Lemonade,12,8.31,Cash,7.5 %,7.686750388145446
@@ -538,13 +538,13 @@ Pate - Cognac,1,70.2,Cash,0.0 %,70.19999694824219
 Hipnotiq Liquor,16,22.23,Cash,10.0 %,20.006999588012697
 Icecream - Dstk Cml And Fdg,3,184.39,Cash,22.0 %,143.82419952392578
 Muffin Mix - Carrot,12,228.89,Visa,9.0 %,208.28989944458007
-Mushroom - Morels Dry,15,50.24,Visa,10.0 %,45.21600151062012
-Foie Gras,6,28.35,Visa,5.0 %,26.93250036239624
-Pepperoni Slices,8,130.02,Visa,3.5 %,125.4693041229248
+Mushroom - Morels Dry,15,50.24,Visa,7.5 %,46.47200155258179
+Foie Gras,6,28.35,Visa,7.5 %,26.223750352859497
+Pepperoni Slices,8,130.02,Visa,5.0 %,123.5190040588379
 Cake - Sheet Strawberry,11,218.23,Cash,7.0 %,202.95389602661132
-Mahi Mahi,6,17.81,Visa,4.0 %,17.097599487304688
+Mahi Mahi,6,17.81,Visa,7.5 %,16.474249505996703
 Beans - Yellow,17,138.42,Cash,10.0 %,124.57799835205078
-Mushrooms - Honey,4,144.18,Visa,0.0 %,144.17999267578125
+Mushrooms - Honey,4,144.18,Visa,5.0 %,136.9709930419922
 Longos - Lasagna Beef,12,236.92,Cash,7.0 %,220.33559829711913
 Food Colouring - Blue,3,216.56,Cash,0.0 %,216.55999755859375
 Veal - Provimi Inside,14,166.26,Cash,7.0 %,154.6217948913574
@@ -552,119 +552,119 @@ Olive - Spread Tapenade,6,188.99,Visa,5.0 %,179.54050521850587
 Foil - Round Foil,9,135.32,Cash,5.0 %,128.55400695800782
 Scallops - U - 10,16,15.66,Cash,30.0 %,10.961999893188477
 Bag - Bread White Plain,16,108.67,Cash,10.0 %,97.80299835205078
-Carbonated Water - Raspberry,6,111.15,Visa,5.0 %,105.59250144958496
+Carbonated Water - Raspberry,6,111.15,Visa,7.5 %,102.81375141143799
 Wine - Segura Viudas Aria Brut,12,70.29,Visa,6.0 %,66.0726008605957
-Amarula Cream,13,50.37,Visa,15.5 %,42.56264909744263
-Salmon - Atlantic No Skin,10,206.7,Visa,7.0 %,192.23099716186522
+Amarula Cream,13,50.37,Visa,19.5 %,40.54784914016724
+Salmon - Atlantic No Skin,10,206.7,Visa,8.5 %,189.1304972076416
 Sugar Thermometer,14,196.59,Cash,7.0 %,182.8286965942383
 Liqueur - Melon,11,212.54,Cash,11.0 %,189.1605940246582
 Madeira,14,129.0,Cash,7.0 %,119.97
-Flower - Commercial Spider,4,134.57,Visa,0.0 %,134.57000732421875
-Capon - Breast Double Wing On,6,32.99,Visa,5.0 %,31.340501594543458
-Smoked Tongue,11,116.12,Visa,7.0 %,107.99160255432129
-Apple - Fuji,2,236.66,Visa,0.0 %,236.66000366210938
-Pork - Bacon Double Smoked,17,160.41,Visa,10.0 %,144.36900329589844
-Island Oasis - Peach Daiquiri,8,21.59,Visa,5.0 %,20.510500144958495
+Flower - Commercial Spider,4,134.57,Visa,5.0 %,127.84150695800781
+Capon - Breast Double Wing On,6,32.99,Visa,7.5 %,30.515751552581786
+Smoked Tongue,11,116.12,Visa,6.0 %,109.15280258178711
+Apple - Fuji,2,236.66,Visa,5.0 %,224.8270034790039
+Pork - Bacon Double Smoked,17,160.41,Visa,15.0 %,136.34850311279297
+Island Oasis - Peach Daiquiri,8,21.59,Visa,7.5 %,19.9707501411438
 Pepper - Chipotle Canned,1,82.75,Cash,0.0 %,82.75
 Wine - Duboeuf Beaujolais,8,231.85,Cash,5.0 %,220.25750579833985
 Soup - Knorr Classic Can. Chili,6,75.73,Visa,5.0 %,71.94350318908691
-Water - Spring Water 355 Ml,9,246.21,Visa,5.0 %,233.89950637817384
-Onions - Green,17,71.44,Visa,30.0 %,50.00800170898438
+Water - Spring Water 355 Ml,9,246.21,Visa,7.5 %,227.74425621032714
+Onions - Green,17,71.44,Visa,35.0 %,46.43600158691406
 Rice - Jasmine Sented,13,145.71,Cash,7.0 %,135.51030624389648
-Snapple Lemon Tea,13,90.59,Visa,7.0 %,84.24869659423828
-Nut - Cashews Whole Raw,9,123.2,Visa,4.5 %,117.65599708557129
-Bread - Triangle White,15,181.13,Visa,10.0 %,163.01700439453126
-Pasta - Rotini Colour Dry,4,200.73,Visa,0.0 %,200.72999572753906
+Snapple Lemon Tea,13,90.59,Visa,6.0 %,85.15459655761718
+Nut - Cashews Whole Raw,9,123.2,Visa,5.0 %,117.03999710083008
+Bread - Triangle White,15,181.13,Visa,12.5 %,158.48875427246094
+Pasta - Rotini Colour Dry,4,200.73,Visa,5.0 %,190.6934959411621
 Milk - Skim,4,230.51,Cash,18.0 %,189.01819549560548
-Beans - Green,15,112.63,Visa,10.0 %,101.36699752807617
+Beans - Green,15,112.63,Visa,12.5 %,98.55124759674072
 Longos - Lasagna Beef,9,247.62,Cash,6.0 %,232.76279541015626
-Bread - Olive Dinner Roll,8,2.23,Visa,5.0 %,2.118500018119812
-Soup - French Can Pea,10,86.47,Visa,7.0 %,80.4171011352539
+Bread - Olive Dinner Roll,8,2.23,Visa,7.5 %,2.062750017642975
+Soup - French Can Pea,10,86.47,Visa,6.0 %,81.28180114746094
 Corn Meal,16,24.53,Cash,19.5 %,19.746650552749635
-Jerusalem Artichoke,4,203.16,Visa,0.0 %,203.16000366210938
-Ocean Spray - Kiwi Strawberry,11,175.29,Visa,7.0 %,163.01969375610352
-Silicone Parch. 16.3x24.3,2,38.77,Visa,0.0 %,38.77000045776367
+Jerusalem Artichoke,4,203.16,Visa,5.0 %,193.00200347900392
+Ocean Spray - Kiwi Strawberry,11,175.29,Visa,6.0 %,164.77259368896483
+Silicone Parch. 16.3x24.3,2,38.77,Visa,5.0 %,36.83150043487549
 Sachet,5,81.34,Cash,22.0 %,63.44519714355469
 Spaghetti Squash,9,10.77,Cash,12.0 %,9.477600402832032
-Coffee Beans - Chocolate,12,102.37,Visa,7.0 %,95.20410255432128
-Bread - Flat Bread,13,245.49,Visa,7.0 %,228.30570510864257
+Coffee Beans - Chocolate,12,102.37,Visa,6.0 %,96.2278025817871
+Bread - Flat Bread,13,245.49,Visa,11.0 %,218.486104888916
 Egg Patty Fried,7,182.62,Cash,11.5 %,161.61869567871094
-Grenadillo,7,70.22,Visa,5.0 %,66.70900115966796
+Grenadillo,7,70.22,Visa,7.5 %,64.9535011291504
 Island Oasis - Peach Daiquiri,13,67.7,Cash,7.0 %,62.96099716186524
 Marsala - Sperone Fine D.o.c.,12,113.77,Cash,13.5 %,98.41104709625245
 Snapple - Mango Maddness,1,111.28,Cash,22.0 %,86.79839904785156
-Wine - Sake,11,125.98,Visa,9.0 %,114.64180305480957
+Wine - Sake,11,125.98,Visa,13.0 %,109.60260292053223
 Bread - Sticks Thin Plain,16,133.65,Cash,8.5 %,122.2897444152832
 Sugar - Fine,12,109.82,Cash,16.5 %,91.69969974517822
 Snapple Lemon Tea,1,237.89,Cash,0.0 %,237.88999938964844
 Trout - Rainbow Fresh,12,185.12,Cash,7.0 %,172.16159545898438
 Chutney Sauce - Mango,8,216.72,Visa,5.0 %,205.88400115966797
-Wine - Placido Pinot Grigo,8,176.57,Visa,5.0 %,167.74150695800782
+Wine - Placido Pinot Grigo,8,176.57,Visa,7.5 %,163.32725677490234
 Lobster - Live,13,186.23,Cash,5.0 %,176.91849594116212
-Pastry - Key Limepoppy Seed Tea,4,112.38,Visa,25.0 %,84.28499794006348
-Pepper - Julienne Frozen,2,236.64,Visa,0.0 %,236.63999938964844
-Tomatoes,14,8.53,Visa,7.0 %,7.932899751663208
+Pastry - Key Limepoppy Seed Tea,4,112.38,Visa,15.0 %,95.52299766540527
+Pepper - Julienne Frozen,2,236.64,Visa,5.0 %,224.80799942016603
+Tomatoes,14,8.53,Visa,11.0 %,7.59169976234436
 Water - Evian 355 Ml,17,143.49,Visa,12.5 %,125.55375480651855
 Beer - Maudite,15,176.36,Cash,10.0 %,158.7240005493164
 Bouillion - Fish,6,91.44,Cash,5.0 %,86.86800231933594
-Edible Flower - Mixed,11,58.36,Visa,7.0 %,54.274800567626954
-Split Peas - Green Dry,2,204.16,Visa,24.0 %,155.16160278320314
+Edible Flower - Mixed,11,58.36,Visa,11.0 %,51.94040054321289
+Split Peas - Green Dry,2,204.16,Visa,14.5 %,174.55680313110352
 Fib N9 - Prague Powder,1,4.5,Cash,0.0 %,4.5
-Pickle - Dill,13,130.2,Visa,12.0 %,114.57599731445313
-Truffle Cups - Red,13,143.75,Visa,16.0 %,120.75
+Pickle - Dill,13,130.2,Visa,16.0 %,109.36799743652344
+Truffle Cups - Red,13,143.75,Visa,20.0 %,115.0
 Broom - Angled,17,243.87,Cash,10.0 %,219.48299560546874
 Juice - Tomato 48 Oz,6,15.79,Visa,5.0 %,15.000499963760376
 Sauce - Plum,13,83.88,Cash,7.0 %,78.00839744567871
 Wine - Red Cabernet Merlot,5,185.28,Visa,5.0 %,176.01599884033203
-Cheese - Brie Cups 125g,14,96.63,Visa,8.5 %,88.41644748687744
-Horseradish Root,15,10.34,Visa,10.0 %,9.306000137329102
+Cheese - Brie Cups 125g,14,96.63,Visa,12.5 %,84.55124759674072
+Horseradish Root,15,10.34,Visa,12.5 %,9.047500133514404
 Turnip - Wax,15,94.8,Cash,10.0 %,85.32000274658203
 Cumin - Ground,9,20.97,Visa,27.5 %,15.203249502182008
 Yogurt - Blueberry 175 Gr,8,27.4,Cash,5.0 %,26.02999963760376
-Cinnamon Rolls,5,71.47,Visa,19.0 %,57.89070098876953
+Cinnamon Rolls,5,71.47,Visa,12.0 %,62.89360107421875
 Wine - Vineland Estate Semi - Dry,11,127.04,Cash,15.0 %,107.98400077819824
 Dome Lid Clear P92008h,2,122.41,Cash,10.0 %,110.16900329589843
 Beef - Cow Feet Split,7,151.37,Cash,5.0 %,143.80149536132814
-Mahi Mahi,1,134.35,Visa,0.0 %,134.35000610351562
+Mahi Mahi,1,134.35,Visa,5.0 %,127.63250579833985
 Horseradish Root,6,190.46,Visa,6.5 %,178.08010627746583
-Bread - Sour Batard,5,140.94,Visa,0.0 %,140.94000244140625
-Sprite Diet - 355ml,16,135.29,Visa,10.0 %,121.76099395751953
+Bread - Sour Batard,5,140.94,Visa,5.0 %,133.89300231933595
+Sprite Diet - 355ml,16,135.29,Visa,15.0 %,114.99649429321289
 Eggplant Italian,16,141.4,Cash,9.0 %,128.6739944458008
 Pasta - Bauletti Chicken White,8,233.12,Cash,5.0 %,221.46399536132813
 Pastry - Key Limepoppy Seed Tea,8,15.42,Cash,7.5 %,14.263500070571899
 Veal - Tenderloin Untrimmed,14,191.97,Cash,7.0 %,178.5321011352539
-Bag - Regular Kraft 20 Lb,11,24.42,Visa,7.0 %,22.71060007095337
+Bag - Regular Kraft 20 Lb,11,24.42,Visa,11.0 %,21.733800067901612
 Crackers - Soda / Saltins,13,54.93,Cash,7.0 %,51.084900283813475
 Oysters - Smoked,17,103.28,Cash,10.0 %,92.95199890136719
 Water - Mineral Natural,5,169.85,Cash,12.0 %,149.46800537109374
 Beef - Salted,4,71.58,Cash,0.0 %,71.58000183105469
 Wine - Baron De Rothschild,1,62.44,Visa,5.0 %,59.31799869537353
-Juice - Pineapple 341 Ml,2,146.2,Visa,0.0 %,146.1999969482422
-Ice Cream Bar - Oreo Sandwich,5,111.87,Visa,16.0 %,93.9708023071289
+Juice - Pineapple 341 Ml,2,146.2,Visa,5.0 %,138.88999710083007
+Ice Cream Bar - Oreo Sandwich,5,111.87,Visa,10.5 %,100.12365245819092
 Beef - Roasted Cooked,14,41.46,Cash,7.0 %,38.55779914855957
 Dates,1,191.02,Cash,0.0 %,191.02000427246094
 Spice - Onion Powder Granulated,6,43.22,Cash,5.0 %,41.05900115966797
-Creme De Cacao White,13,71.63,Visa,5.5 %,67.69034740447998
+Creme De Cacao White,13,71.63,Visa,6.0 %,67.33219741821289
 Oil - Olive,7,11.72,Cash,27.5 %,8.497000193595886
 Wine - White Concha Y Toro,8,116.44,Visa,9.5 %,105.37820220947266
 Wine - Bourgogne 2002 La,2,164.81,Cash,5.0 %,156.56949768066406
-Bread - Rye,12,158.12,Visa,8.0 %,145.4703955078125
-Filter - Coffee,10,103.78,Visa,5.5 %,98.07209884643555
+Bread - Rye,12,158.12,Visa,12.0 %,139.145595703125
+Filter - Coffee,10,103.78,Visa,8.5 %,94.95869888305664
 Pasta - Lasagne Fresh,16,179.14,Cash,10.0 %,161.2259994506836
 Gherkin,5,176.37,Cash,0.0 %,176.3699951171875
 Swordfish Loin Portions,11,14.82,Cash,10.5 %,13.263899726867676
-Sausage - Chorizo,15,38.38,Visa,10.0 %,34.542000961303714
+Sausage - Chorizo,15,38.38,Visa,12.5 %,33.58250093460083
 Sauce - Soy Low Sodium - 3.87l,17,112.69,Cash,10.0 %,101.42100219726562
 Hinge W Undercut,15,116.7,Visa,10.5 %,104.44649726867675
-Wine - Fino Tio Pepe Gonzalez,11,121.46,Visa,6.0 %,114.17239913940429
-Container - Foam Dixie 12 Oz,3,187.58,Visa,1.0 %,185.70420181274415
+Wine - Fino Tio Pepe Gonzalez,11,121.46,Visa,11.0 %,108.09939918518066
+Container - Foam Dixie 12 Oz,3,187.58,Visa,5.0 %,178.20100173950195
 Pastry - Baked Cinnamon Stick,11,226.12,Cash,6.5 %,211.4221954345703
 Appetizer - Crab And Brie,10,87.97,Cash,7.0 %,81.81210113525391
 Carbonated Water - White Grape,14,241.26,Cash,8.0 %,221.95919494628907
 Wine - Vineland Estate Semi - Dry,3,211.55,Visa,5.0 %,200.9725028991699
 Tomatoes - Yellow Hot House,1,247.74,Visa,5.0 %,235.35300521850587
-Ice Cream - Turtles Stick Bar,4,21.62,Visa,0.0 %,21.6200008392334
-Lobster - Canned Premium,3,213.03,Visa,9.0 %,193.85729888916015
+Ice Cream - Turtles Stick Bar,4,21.62,Visa,5.0 %,20.53900079727173
+Lobster - Canned Premium,3,213.03,Visa,7.0 %,198.11789886474608
 Tomatoes - Heirloom,7,36.84,Visa,5.0 %,34.998000144958496
 Bread - Sour Batard,4,233.47,Cash,21.0 %,184.44130096435546
 Cheese - Briedanish,17,138.49,Cash,10.0 %,124.64100494384766
@@ -674,164 +674,164 @@ Mushroom - Shitake Dry,6,205.6,Visa,5.0 %,195.32000579833985
 Langers - Ruby Red Grapfruit,17,238.93,Cash,10.0 %,215.03699340820313
 Coffee - Frthy Coffee Crisp,14,227.66,Cash,12.0 %,200.34080322265626
 Wine - Touraine Azay - Le - Rideau,9,199.39,Visa,11.0 %,177.45709945678712
-Nantucket - 518ml,13,164.42,Visa,7.0 %,152.91059829711915
+Nantucket - 518ml,13,164.42,Visa,11.0 %,146.33379837036134
 Bar Mix - Lime,10,86.94,Cash,7.0 %,80.85420227050781
 Brandy Apricot,5,94.28,Cash,0.0 %,94.27999877929688
 Bread - English Muffin,12,140.76,Cash,15.5 %,118.94219535827636
-Chevril,11,49.01,Visa,7.0 %,45.57929843902588
+Chevril,11,49.01,Visa,11.0 %,43.61889850616455
 Cocoa Feuilletine,4,47.61,Cash,9.0 %,43.32510055541992
 Spinach - Packaged,2,227.38,Cash,7.0 %,211.46340454101562
 Tea - Jasmin Green,6,67.86,Cash,5.0 %,64.46700057983398
 The Pop Shoppe - Root Beer,4,235.13,Cash,0.0 %,235.1300048828125
-Onions - Cippolini,15,178.41,Visa,10.0 %,160.56900329589843
+Onions - Cippolini,15,178.41,Visa,12.5 %,156.1087532043457
 Wine - Magnotta - Cab Franc,17,177.36,Cash,7.5 %,164.0580005645752
 Chicken - Tenderloin,15,96.03,Cash,10.0 %,86.42699890136718
 Scallops - 10/20,4,34.29,Cash,0.0 %,34.290000915527344
 Wine - Vovray Sec Domaine Huet,3,156.18,Cash,5.0 %,148.3709930419922
-Lime Cordial - Roses,11,207.53,Visa,7.0 %,193.0028988647461
+Lime Cordial - Roses,11,207.53,Visa,11.0 %,184.7016989135742
 Muffin Hinge 117n,8,211.66,Visa,5.0 %,201.0770034790039
 Beer - True North Lager,17,189.56,Cash,11.5 %,167.76059783935546
 Wine - Red Pinot Noir Chateau,6,194.58,Cash,5.0 %,184.85100173950195
 Tomato Puree,17,85.62,Cash,10.0 %,77.05800247192383
-Pork - Ham Virginia,17,137.5,Visa,10.0 %,123.75
-Jerusalem Artichoke,16,105.14,Visa,10.0 %,94.6259994506836
-Wine - Touraine Azay - Le - Rideau,7,64.66,Visa,5.0 %,61.42700347900391
+Pork - Ham Virginia,17,137.5,Visa,15.0 %,116.875
+Jerusalem Artichoke,16,105.14,Visa,15.0 %,89.36899948120117
+Wine - Touraine Azay - Le - Rideau,7,64.66,Visa,7.5 %,59.81050338745117
 Corn - Cream Canned,7,39.27,Cash,5.0 %,37.30650043487549
-Banana - Green,1,125.19,Visa,0.0 %,125.19000244140625
-Wine - White Ej,15,212.16,Visa,7.5 %,196.24800338745118
-Beer - Fruli,13,246.13,Visa,7.0 %,228.90090454101562
+Banana - Green,1,125.19,Visa,5.0 %,118.93050231933594
+Wine - White Ej,15,212.16,Visa,12.5 %,185.6400032043457
+Beer - Fruli,13,246.13,Visa,11.0 %,219.05570434570313
 Wine - Casillero Del Diablo,2,56.7,Visa,13.5 %,49.045500659942626
-Whmis Spray Bottle Graduated,10,140.94,Visa,7.0 %,131.0742022705078
+Whmis Spray Bottle Graduated,10,140.94,Visa,8.5 %,128.96010223388672
 Shrimp - 16 - 20 Cooked Peeled,10,220.53,Cash,7.0 %,205.0928988647461
-Water - Mineral Natural,14,142.72,Visa,7.0 %,132.72960113525392
+Water - Mineral Natural,14,142.72,Visa,6.0 %,134.15680114746092
 Versatainer Nc - 8288,7,82.05,Cash,5.0 %,77.94750289916992
 Wine - Tribal Sauvignon,15,57.09,Visa,7.5 %,52.8082501411438
 Beef - Diced,12,210.3,Cash,7.0 %,195.57900283813476
 Wine - Shiraz South Eastern,16,172.34,Cash,7.5 %,159.41449661254882
-Fruit Salad Deluxe,14,141.24,Visa,7.0 %,131.35320510864258
-Pepper - Paprika Spanish,7,72.15,Visa,5.0 %,68.54250144958496
+Fruit Salad Deluxe,14,141.24,Visa,11.0 %,125.70360488891602
+Pepper - Paprika Spanish,7,72.15,Visa,7.5 %,66.73875141143799
 Squid - Breaded,6,2.65,Cash,5.0 %,2.51750009059906
 Beef - Kobe Striploin,5,229.73,Cash,0.0 %,229.72999572753906
-Salmon - Atlantic No Skin,13,83.34,Visa,7.0 %,77.50619659423828
-Juice - Cranberry 341 Ml,6,31.89,Visa,5.0 %,30.295499420166017
-Skirt - 29 Foot,7,6.35,Visa,5.0 %,6.03249990940094
+Salmon - Atlantic No Skin,13,83.34,Visa,6.0 %,78.33959655761718
+Juice - Cranberry 341 Ml,6,31.89,Visa,7.5 %,29.498249435424803
+Skirt - 29 Foot,7,6.35,Visa,7.5 %,5.873749911785126
 Lamb - Whole Frozen,9,240.21,Cash,8.5 %,219.79215614318846
-Cheese - Havarti Roasted Garlic,3,239.62,Visa,10.0 %,215.65799560546876
-Cheese - Goat,14,65.09,Visa,17.5 %,53.69924697875977
+Cheese - Havarti Roasted Garlic,3,239.62,Visa,7.5 %,221.64849548339845
+Cheese - Goat,14,65.09,Visa,20.0 %,52.0719970703125
 Temperature Recording Station,13,156.91,Visa,15.0 %,133.37350311279297
 Blueberries - Frozen,2,213.94,Cash,0.0 %,213.94000244140625
-Shallots,4,245.4,Visa,0.0 %,245.39999389648438
+Shallots,4,245.4,Visa,5.0 %,233.12999420166017
 Bar Mix - Lemon,6,109.11,Visa,5.0 %,103.65450057983398
-Vinegar - Balsamic White,3,128.55,Visa,0.0 %,128.5500030517578
+Vinegar - Balsamic White,3,128.55,Visa,5.0 %,122.12250289916992
 Pepper - Chipotle Canned,9,163.06,Visa,5.0 %,154.90699768066406
 Cheese - Marble,3,40.72,Cash,10.0 %,36.64800109863281
-Sauce - Ranch Dressing,5,138.93,Visa,27.0 %,101.41889465332031
-Milk - Chocolate 250 Ml,1,138.04,Visa,0.0 %,138.0399932861328
+Sauce - Ranch Dressing,5,138.93,Visa,16.0 %,116.70119384765624
+Milk - Chocolate 250 Ml,1,138.04,Visa,5.0 %,131.13799362182618
 Soup - Base Broth Chix,9,226.77,Cash,16.5 %,189.35295356750487
-Beef - Kindney Whole,11,175.49,Visa,7.5 %,162.32825508117676
+Beef - Kindney Whole,11,175.49,Visa,11.5 %,155.30865486145018
 Bread - White Sliced,15,89.84,Cash,10.0 %,80.85599670410156
-Wine - Pinot Noir Stoneleigh,14,88.48,Visa,6.0 %,83.17120315551757
+Wine - Pinot Noir Stoneleigh,14,88.48,Visa,11.0 %,78.7472029876709
 Soup Campbells Split Pea And Ham,16,220.6,Cash,17.5 %,181.9950050354004
 Pike - Frozen Fillet,3,246.97,Cash,0.0 %,246.97000122070312
 Edible Flower - Mixed,6,27.77,Visa,5.0 %,26.381500434875488
-Bread - Corn Muffaleta Onion,12,54.51,Visa,7.0 %,50.69429843902588
-Ginger - Fresh,11,129.22,Visa,12.0 %,113.71360107421876
-Doilies - 7 Paper,10,118.43,Visa,7.0 %,110.13990028381347
+Bread - Corn Muffaleta Onion,12,54.51,Visa,6.0 %,51.23939842224121
+Ginger - Fresh,11,129.22,Visa,16.0 %,108.54480102539063
+Doilies - 7 Paper,10,118.43,Visa,8.5 %,108.36345027923583
 Onions - White,9,41.21,Cash,5.0 %,39.149499130249026
 Container - Hngd Cll Blk 7x7x3,14,115.98,Cash,7.0 %,107.86140312194824
 Oxtail - Cut,15,53.93,Cash,10.0 %,48.537000274658205
 Juice Peach Nectar,15,236.75,Visa,15.0 %,201.2375
 Lamb Shoulder Boneless Nz,2,44.85,Cash,7.0 %,41.710498580932615
-Crab - Claws Snow 16 - 24,6,53.38,Visa,5.0 %,50.711001014709474
+Crab - Claws Snow 16 - 24,6,53.38,Visa,7.5 %,49.37650098800659
 Muffin - Mix - Mango Sour Cherry,1,120.46,Cash,15.0 %,102.39099922180176
 Soup - French Can Pea,14,105.55,Visa,8.5 %,96.5782527923584
-Pepper - Gypsy Pepper,10,124.43,Visa,7.0 %,115.71990028381347
-Wooden Mop Handle,17,221.12,Visa,10.0 %,199.00799560546875
+Pepper - Gypsy Pepper,10,124.43,Visa,8.5 %,113.85345027923584
+Wooden Mop Handle,17,221.12,Visa,7.5 %,204.53599548339844
 Chilli Paste Ginger Garlic,2,25.07,Cash,0.0 %,25.06999969482422
-Tomatoes - Roma,14,65.78,Visa,7.0 %,61.17539886474609
+Tomatoes - Roma,14,65.78,Visa,11.0 %,58.54419891357422
 Dried Peach,15,218.55,Cash,14.5 %,186.86025260925294
-Lumpfish Black,5,196.47,Visa,21.0 %,155.21130096435547
-Lettuce Romaine Chopped,13,141.92,Visa,7.0 %,131.98559829711914
+Lumpfish Black,5,196.47,Visa,13.0 %,170.92890106201173
+Lettuce Romaine Chopped,13,141.92,Visa,6.0 %,133.40479827880858
 Danishes - Mini Raspberry,12,163.31,Cash,7.0 %,151.87829772949217
-Crush - Cream Soda,1,174.23,Visa,0.0 %,174.22999572753906
+Crush - Cream Soda,1,174.23,Visa,5.0 %,165.51849594116212
 Cream - 35%,10,105.23,Cash,12.5 %,92.0762529373169
-Sauerkraut,14,164.65,Visa,7.0 %,153.12449432373046
-Cup Translucent 9 Oz,15,173.74,Visa,12.5 %,152.02250480651855
-Cheese - Parmesan Grated,5,204.0,Visa,10.0 %,183.6
-Pastry - Mini French Pastries,5,128.64,Visa,0.0 %,128.63999938964844
-Cape Capensis - Fillet,7,36.43,Visa,13.0 %,31.69410026550293
+Sauerkraut,14,164.65,Visa,11.0 %,146.53849456787108
+Cup Translucent 9 Oz,15,173.74,Visa,15.0 %,147.67900466918945
+Cheese - Parmesan Grated,5,204.0,Visa,7.5 %,188.7
+Pastry - Mini French Pastries,5,128.64,Visa,5.0 %,122.20799942016602
+Cape Capensis - Fillet,7,36.43,Visa,15.5 %,30.783350257873536
 Ocean Spray - Ruby Red,7,82.37,Cash,5.0 %,78.25150260925292
 Veal - Insides Grains,9,194.02,Cash,5.0 %,184.3190040588379
 Squid - Breaded,2,131.02,Cash,8.0 %,120.53840393066406
 Initation Crab Meat,6,98.29,Cash,5.0 %,93.37550086975098
-Pate - Liver,17,92.53,Visa,10.0 %,83.2769989013672
+Pate - Liver,17,92.53,Visa,15.0 %,78.65049896240234
 Pasta - Penne Rigate Dry,16,221.46,Cash,15.0 %,188.24100570678712
 Samosa - Veg,13,233.69,Cash,7.0 %,217.3317022705078
-Trueblue - Blueberry 12x473ml,9,72.06,Visa,5.0 %,68.45699768066406
-Wine - German Riesling,13,248.89,Visa,17.0 %,206.5786994934082
+Trueblue - Blueberry 12x473ml,9,72.06,Visa,7.5 %,66.65549774169922
+Wine - German Riesling,13,248.89,Visa,21.0 %,196.62309951782225
 Amarula Cream,2,239.54,Cash,21.0 %,189.23659469604493
 Pastrami,3,35.53,Cash,0.0 %,35.529998779296875
 Blue Curacao - Marie Brizard,3,175.6,Cash,0.0 %,175.60000610351562
 Straws - Cocktale,10,3.89,Visa,15.5 %,3.287050088644028
-Rabbit - Frozen,13,149.54,Visa,13.5 %,129.3520941925049
+Rabbit - Frozen,13,149.54,Visa,17.5 %,123.37049446105956
 Wine - Domaine Boyar Royal,5,144.9,Visa,5.0 %,137.65499420166014
-Tomatoes - Roma,5,192.52,Visa,0.0 %,192.52000427246094
-Pork - Loin Bone - In,17,29.49,Visa,10.0 %,26.540999794006346
+Tomatoes - Roma,5,192.52,Visa,5.0 %,182.89400405883788
+Pork - Loin Bone - In,17,29.49,Visa,7.5 %,27.278249788284302
 Beef - Ox Tongue Pickled,15,203.57,Cash,17.5 %,167.94525604248048
 Cup - Translucent 7 Oz Clear,3,42.68,Cash,0.0 %,42.68000030517578
 Canadian Emmenthal,11,35.42,Visa,10.0 %,31.87799835205078
 Propel Sport Drink,10,221.83,Cash,7.0 %,206.30190170288085
-Langers - Mango Nectar,16,101.45,Visa,6.0 %,95.36299713134765
-Sour Puss Sour Apple,1,236.57,Visa,0.0 %,236.57000732421875
+Langers - Mango Nectar,16,101.45,Visa,15.0 %,86.23249740600586
+Sour Puss Sour Apple,1,236.57,Visa,5.0 %,224.74150695800782
 Pomello,13,60.39,Cash,7.0 %,56.162699432373046
-Cheese Cloth No 100,17,186.2,Visa,10.0 %,167.57999725341796
-Bread Base - Italian,9,238.44,Visa,5.0 %,226.51800231933595
-Soup - Campbells Lentil,3,22.39,Visa,27.0 %,16.34469955444336
+Cheese Cloth No 100,17,186.2,Visa,15.0 %,158.26999740600587
+Bread Base - Italian,9,238.44,Visa,7.5 %,220.55700225830077
+Soup - Campbells Lentil,3,22.39,Visa,16.0 %,18.80759948730469
 Pepper - Black Crushed,13,102.37,Cash,7.0 %,95.20410255432128
 Salt - Seasoned,6,24.64,Cash,15.5 %,20.82079948425293
 Cheese - La Sauvagine,10,205.46,Cash,8.5 %,187.99590614318848
 Wine - Pinot Noir Latour,1,120.14,Cash,6.0 %,112.93159942626953
-Sprouts - Peppercress,5,2.57,Visa,0.0 %,2.569999933242798
+Sprouts - Peppercress,5,2.57,Visa,5.0 %,2.441499936580658
 Numi - Assorted Teas,10,88.54,Cash,7.0 %,82.34220085144042
-Sambuca Cream,12,75.83,Visa,7.0 %,70.52190170288085
+Sambuca Cream,12,75.83,Visa,11.0 %,67.48870162963867
 Lemonade - Mandarin 591 Ml,15,137.07,Cash,10.0 %,123.36300659179688
 Melon - Watermelon Seedless,10,41.32,Cash,7.0 %,38.42759971618652
-Rice Paper,12,59.57,Visa,8.0 %,54.80439971923828
+Rice Paper,12,59.57,Visa,12.0 %,52.42159973144531
 Fruit Salad Deluxe,8,238.06,Visa,5.0 %,226.15699768066406
-Mortadella,6,230.36,Visa,5.0 %,218.84200057983398
-Sausage - Meat,4,30.89,Visa,6.0 %,29.036599426269532
-Wine - Fino Tio Pepe Gonzalez,9,131.13,Visa,5.0 %,124.57350463867188
-Cheese - St. Andre,7,167.82,Visa,7.5 %,155.23350677490234
-Oil - Coconut,17,121.19,Visa,10.0 %,109.07100219726563
-Soup - Campbells Broccoli,1,144.03,Visa,0.0 %,144.02999877929688
-Cranberries - Dry,3,139.58,Visa,0.0 %,139.5800018310547
+Mortadella,6,230.36,Visa,7.5 %,213.0830005645752
+Sausage - Meat,4,30.89,Visa,5.5 %,29.191049423217773
+Wine - Fino Tio Pepe Gonzalez,9,131.13,Visa,7.5 %,121.29525451660156
+Cheese - St. Andre,7,167.82,Visa,10.0 %,151.0380065917969
+Oil - Coconut,17,121.19,Visa,7.5 %,112.10075225830079
+Soup - Campbells Broccoli,1,144.03,Visa,5.0 %,136.82849884033203
+Cranberries - Dry,3,139.58,Visa,5.0 %,132.60100173950195
 Ezy Change Mophandle,8,129.63,Cash,3.0 %,125.74110473632813
-Gherkin,8,37.53,Visa,5.0 %,35.653498840332034
+Gherkin,8,37.53,Visa,7.5 %,34.71524887084961
 Carbonated Water - Raspberry,12,87.07,Cash,15.0 %,74.00949974060059
 Cornstarch,8,245.26,Cash,5.0 %,232.99699478149415
-Iced Tea Concentrate,6,163.04,Visa,5.0 %,154.88799362182618
+Iced Tea Concentrate,6,163.04,Visa,7.5 %,150.81199378967284
 Pasta - Rotini Colour Dry,4,20.13,Cash,24.0 %,15.298799362182617
-Sour Puss Raspberry,8,38.32,Visa,5.0 %,36.403999710083006
+Sour Puss Raspberry,8,38.32,Visa,7.5 %,35.445999717712404
 Bread Country Roll,2,75.17,Cash,5.0 %,71.41149826049805
-Apple - Fuji,15,16.35,Visa,10.0 %,14.715000343322753
+Apple - Fuji,15,16.35,Visa,12.5 %,14.30625033378601
 Soup - Boston Clam Chowder,6,148.72,Cash,5.0 %,141.28400115966798
 Trout - Smoked,4,143.96,Cash,0.0 %,143.9600067138672
-Beer - Camerons Cream Ale,10,57.34,Visa,7.0 %,53.32620014190674
+Beer - Camerons Cream Ale,10,57.34,Visa,8.5 %,52.46610013961792
 Juice - Orange 341 Ml,17,178.63,Cash,10.0 %,160.76700439453126
 Pike - Frozen Fillet,2,119.96,Cash,0.0 %,119.95999908447266
 Crab - Imitation Flakes,1,206.65,Cash,27.0 %,150.85449554443358
 Bag Clear 10 Lb,13,41.04,Cash,8.5 %,37.55160083770752
 Wine - Mas Chicet Rose Vintage,10,102.28,Cash,6.0 %,96.14319885253906
-Yoghurt Tubes,17,150.47,Visa,10.0 %,135.42300109863282
+Yoghurt Tubes,17,150.47,Visa,15.0 %,127.89950103759766
 Milk - Skim,13,75.7,Cash,7.0 %,70.40099716186523
-Toothpick Frilled,2,249.77,Visa,27.0 %,182.3321031188965
+Toothpick Frilled,2,249.77,Visa,16.0 %,209.80680358886718
 Table Cloth 120 Round White,5,126.5,Cash,0.0 %,126.5
-Vinegar - Balsamic,14,218.9,Visa,7.0 %,203.57699432373047
-Canadian Emmenthal,15,226.6,Visa,10.0 %,203.94000549316405
+Vinegar - Balsamic,14,218.9,Visa,11.0 %,194.82099456787108
+Canadian Emmenthal,15,226.6,Visa,7.5 %,209.60500564575196
 Cookies - Oreo 4 Pack,2,167.88,Cash,0.0 %,167.8800048828125
 Wine - Red Cooking,12,117.64,Cash,6.0 %,110.58159942626953
-Appetizer - Asian Shrimp Roll,12,16.79,Visa,7.0 %,15.61470085144043
-Rum - Cream Amarula,1,134.62,Visa,0.0 %,134.6199951171875
+Appetizer - Asian Shrimp Roll,12,16.79,Visa,11.0 %,14.943100814819335
+Rum - Cream Amarula,1,134.62,Visa,5.0 %,127.88899536132813
 Lettuce - Frisee,9,55.73,Cash,14.5 %,47.64914960861206
 Broom And Broom Rack White,6,104.25,Cash,5.0 %,99.0375
 Squash - Acorn,11,128.64,Cash,7.0 %,119.63519943237304
@@ -842,106 +842,106 @@ Beer - Labatt Blue,6,39.62,Cash,5.0 %,37.63899898529053
 Soup - Campbells Beef Strogonoff,9,198.75,Visa,5.0 %,188.8125
 Pears - Fiorelle,12,214.24,Cash,10.0 %,192.81600494384764
 Pumpkin - Seed,12,207.73,Cash,10.0 %,186.95699615478514
-Cookie Dough - Peanut Butter,13,209.91,Visa,7.0 %,195.21630340576172
-Cheese - Le Cheve Noir,15,30.15,Visa,10.0 %,27.134999656677245
-Seaweed Green Sheets,5,92.83,Visa,0.0 %,92.83000183105469
-Truffle Paste,13,56.91,Visa,11.0 %,50.649899864196776
-Mcguinness - Blue Curacao,17,101.32,Visa,10.0 %,91.1879997253418
+Cookie Dough - Peanut Butter,13,209.91,Visa,11.0 %,186.81990325927734
+Cheese - Le Cheve Noir,15,30.15,Visa,12.5 %,26.38124966621399
+Seaweed Green Sheets,5,92.83,Visa,5.0 %,88.18850173950196
+Truffle Paste,13,56.91,Visa,15.0 %,48.37349987030029
+Mcguinness - Blue Curacao,17,101.32,Visa,7.5 %,93.7209997177124
 Sugar - White Packet,7,74.82,Cash,5.0 %,71.07899971008301
 Mushroom - Porcini Frozen,1,168.44,Cash,4.0 %,161.70240234375
 Bread - Multigrain Loaf,1,26.95,Cash,0.0 %,26.950000762939453
-Wine - Magnotta White,9,165.52,Visa,5.0 %,157.2440040588379
+Wine - Magnotta White,9,165.52,Visa,7.5 %,153.10600395202636
 Southern Comfort,12,209.5,Cash,11.0 %,186.45499999999998
 Bread Base - Italian,12,215.82,Cash,4.5 %,206.1081069946289
 Wine - Ruffino Chianti,12,249.0,Cash,6.0 %,234.06
-Rice - 7 Grain Blend,3,92.48,Visa,0.0 %,92.4800033569336
+Rice - 7 Grain Blend,3,92.48,Visa,5.0 %,87.85600318908692
 Split Peas - Yellow Dry,5,45.82,Cash,0.0 %,45.81999969482422
 Oil - Olive Bertolli,8,27.11,Visa,5.0 %,25.754500579833984
 Lamb - Whole Head Off,16,43.78,Cash,17.0 %,36.3373989868164
 Basil - Dry Rubbed,14,62.45,Cash,7.0 %,58.07850070953369
 Kiwi Gold Zespri,4,8.94,Cash,0.0 %,8.9399995803833
 Cheese - Marble,1,123.76,Visa,9.0 %,112.62160194396972
-Maple Syrup,10,94.95,Visa,7.0 %,88.30349716186524
+Maple Syrup,10,94.95,Visa,6.0 %,89.25299713134766
 Mushroom - Shitake Fresh,8,142.17,Cash,5.0 %,135.06149826049804
 Wine - Tio Pepe Sherry Fino,8,200.62,Cash,5.0 %,190.58899536132813
 Bread - Italian Roll With Herbs,4,89.82,Cash,4.0 %,86.22719970703125
-Sausage - Meat,3,78.98,Visa,0.0 %,78.9800033569336
+Sausage - Meat,3,78.98,Visa,5.0 %,75.03100318908692
 Cheese - Stilton,10,151.5,Cash,8.5 %,138.6225
-Coconut - Whole,5,82.22,Visa,0.0 %,82.22000122070312
+Coconut - Whole,5,82.22,Visa,5.0 %,78.10900115966797
 Sauce Bbq Smokey,8,214.28,Cash,16.0 %,179.99519897460937
 Soup - Campbells Beef Noodle,4,37.25,Cash,7.0 %,34.6425
 Pop - Club Soda Can,7,44.56,Cash,5.0 %,42.332001304626466
-Vinegar - Balsamic,3,69.39,Visa,0.0 %,69.38999938964844
+Vinegar - Balsamic,3,69.39,Visa,5.0 %,65.92049942016601
 Soup - Verve - Chipotle Chicken,12,110.59,Cash,5.5 %,104.50754653930665
-Wasabi Powder,1,150.94,Visa,0.0 %,150.94000244140625
+Wasabi Powder,1,150.94,Visa,5.0 %,143.39300231933595
 Beans - Turtle Black Dry,16,30.29,Cash,10.0 %,27.26100082397461
 Pastry - Mini French Pastries,1,224.65,Cash,0.0 %,224.64999389648438
 Muffin Mix - Oatmeal,4,149.11,Cash,0.0 %,149.11000061035156
-Pasta - Cheese / Spinach Bauletti,10,8.58,Visa,8.5 %,7.85069993019104
+Pasta - Cheese / Spinach Bauletti,10,8.58,Visa,10.0 %,7.721999931335449
 7up Diet 355 Ml,6,9.96,Cash,6.0 %,9.362400035858155
 Soup Campbells Turkey Veg.,5,59.82,Cash,0.0 %,59.81999969482422
-Muffin - Zero Transfat,11,66.71,Visa,28.5 %,47.69764934539795
+Muffin - Zero Transfat,11,66.71,Visa,32.5 %,45.029249382019046
 Rum - White Gg White,17,230.88,Cash,10.0 %,207.79200439453126
-Arizona - Green Tea,16,229.55,Visa,10.0 %,206.59500274658203
+Arizona - Green Tea,16,229.55,Visa,7.5 %,212.33375282287597
 Tart Shells - Sweet 4,3,67.73,Cash,0.0 %,67.7300033569336
 Bread - Malt,14,144.88,Cash,12.0 %,127.494404296875
 Milk - Buttermilk,4,166.99,Cash,6.0 %,156.97060516357422
-Brandy - Orange Mc Guiness,7,130.18,Visa,5.0 %,123.67099304199219
+Brandy - Orange Mc Guiness,7,130.18,Visa,7.5 %,120.41649322509765
 Wheat - Soft Kernal Of Wheat,5,124.96,Cash,0.0 %,124.95999908447266
-Snails - Large Canned,14,24.1,Visa,8.0 %,22.17200035095215
-Garbag Bags - Black,12,77.24,Visa,7.0 %,71.83319801330566
-Persimmons,5,136.79,Visa,0.0 %,136.7899932861328
-Salmon Atl.whole 8 - 10 Lb,8,156.61,Visa,5.0 %,148.77950057983398
-Soup - Campbells Mushroom,7,109.53,Visa,3.5 %,105.69644882202148
+Snails - Large Canned,14,24.1,Visa,12.0 %,21.20800033569336
+Garbag Bags - Black,12,77.24,Visa,6.0 %,72.60559799194336
+Persimmons,5,136.79,Visa,5.0 %,129.95049362182618
+Salmon Atl.whole 8 - 10 Lb,8,156.61,Visa,7.5 %,144.8642505645752
+Soup - Campbells Mushroom,7,109.53,Visa,7.5 %,101.31524887084962
 Soup - Campbells Cream Of,4,112.28,Cash,8.0 %,103.29759887695312
 Stainless Steel Cleaner Vision,16,189.18,Cash,10.0 %,170.26199340820312
 Juice - Ocean Spray Cranberry,7,166.35,Cash,4.5 %,158.8642558288574
-Beets,16,147.22,Visa,5.5 %,139.12290115356444
-Fish - Base Bouillion,4,118.02,Visa,0.0 %,118.0199966430664
-Bread - Crumbs Bulk,13,43.03,Visa,7.0 %,40.017898864746094
+Beets,16,147.22,Visa,15.0 %,125.13700103759766
+Fish - Base Bouillion,4,118.02,Visa,5.0 %,112.11899681091309
+Bread - Crumbs Bulk,13,43.03,Visa,11.0 %,38.29669891357422
 Sauce Bbq Smokey,12,10.45,Visa,16.0 %,8.777999839782716
-Basil - Pesto Sauce,2,68.81,Visa,0.0 %,68.80999755859375
-Macaroons - Two Bite Choc,4,16.93,Visa,28.0 %,12.189600219726561
-Plaintain,11,238.69,Visa,7.0 %,221.9817022705078
-Cookies Almond Hazelnut,5,38.24,Visa,0.0 %,38.2400016784668
-Pear - Asian,14,243.82,Visa,7.0 %,226.75260681152344
-Long Island Ice Tea,3,104.64,Visa,23.0 %,80.5727995300293
+Basil - Pesto Sauce,2,68.81,Visa,5.0 %,65.36949768066407
+Macaroons - Two Bite Choc,4,16.93,Visa,16.5 %,14.136550254821778
+Plaintain,11,238.69,Visa,6.0 %,224.36860229492189
+Cookies Almond Hazelnut,5,38.24,Visa,5.0 %,36.32800159454346
+Pear - Asian,14,243.82,Visa,11.0 %,216.9998065185547
+Long Island Ice Tea,3,104.64,Visa,14.0 %,89.99039947509766
 Cheese - St. Paulin,5,8.91,Cash,10.0 %,8.0189998626709
-Plate Pie Foil,13,214.06,Visa,7.0 %,199.0757977294922
+Plate Pie Foil,13,214.06,Visa,6.0 %,201.21639770507812
 Scallops - 20/30,14,202.69,Cash,7.0 %,188.50170227050782
-Lettuce - Spring Mix,15,156.02,Visa,10.0 %,140.41800384521486
-Rosemary - Dry,11,108.69,Visa,13.5 %,94.0168521118164
+Lettuce - Spring Mix,15,156.02,Visa,7.5 %,144.31850395202636
+Rosemary - Dry,11,108.69,Visa,17.5 %,89.66925201416015
 Chicken Breast Halal,1,178.75,Cash,15.0 %,151.9375
 Nescafe - Frothy French Vanilla,12,39.98,Cash,7.0 %,37.18139957427979
 Bread - Raisin Walnut Oval,5,137.17,Cash,18.0 %,112.47939849853516
-Kahlua,7,46.35,Visa,12.0 %,40.78799865722657
+Kahlua,7,46.35,Visa,14.5 %,39.62924869537353
 Bread - Roll Soft White Round,7,196.49,Cash,16.5 %,164.069154586792
 7up Diet 355 Ml,15,123.85,Cash,10.0 %,111.46499862670899
 Chinese Foods - Plain Fried Rice,16,227.83,Cash,15.5 %,192.51635154724121
 Chicken - Whole,15,2.58,Cash,10.0 %,2.321999931335449
 Goldschalger,1,210.04,Cash,0.0 %,210.0399932861328
 External Supplier,5,142.72,Cash,0.0 %,142.72000122070312
-Wine - Coteaux Du Tricastin Ac,14,150.4,Visa,6.0 %,141.37599426269531
+Wine - Coteaux Du Tricastin Ac,14,150.4,Visa,11.0 %,133.8559945678711
 Vol Au Vents,1,182.95,Cash,0.0 %,182.9499969482422
 Mushrooms - Honey,15,129.55,Cash,11.0 %,115.29950271606445
-Tomatoes Tear Drop Yellow,12,157.22,Visa,7.0 %,146.2146011352539
+Tomatoes Tear Drop Yellow,12,157.22,Visa,6.0 %,147.78680114746095
 Nut - Pecan Halves,14,153.77,Cash,7.0 %,143.00610397338866
-Yoplait Drink,4,104.59,Visa,9.0 %,95.17689666748046
+Yoplait Drink,4,104.59,Visa,7.0 %,97.26869659423828
 Wine - Magnotta - Cab Franc,1,130.59,Visa,5.0 %,124.0604965209961
 Goat - Whole Cut,1,151.8,Cash,15.0 %,129.03000259399414
 Oil - Pumpkinseed,1,237.3,Cash,0.0 %,237.3000030517578
 Cookie Trail Mix,14,172.88,Cash,7.0 %,160.77840454101562
 Veal - Bones,5,138.77,Visa,5.0 %,131.83150405883788
-Goulash Seasoning,15,164.89,Visa,10.0 %,148.4009994506836
-Buffalo - Striploin,2,101.45,Visa,0.0 %,101.44999694824219
+Goulash Seasoning,15,164.89,Visa,12.5 %,144.27874946594238
+Buffalo - Striploin,2,101.45,Visa,5.0 %,96.37749710083008
 Juice - Lagoon Mango,13,234.01,Cash,7.0 %,217.62929489135743
-Milk - Chocolate 250 Ml,12,133.88,Visa,15.5 %,113.12860412597657
-Flower - Leather Leaf Fern,10,245.38,Visa,7.0 %,228.20340454101563
-Fish - Soup Base Bouillon,9,95.57,Visa,5.5 %,90.31364971160889
-Silicone Paper 16.5x24,11,145.99,Visa,7.0 %,135.77070510864257
-Red Currants,17,208.22,Visa,10.0 %,187.39800109863282
-Lamb - Shanks,14,205.98,Visa,12.0 %,181.26239624023438
-Coriander - Seed,15,60.88,Visa,10.0 %,54.792000961303714
+Milk - Chocolate 250 Ml,12,133.88,Visa,19.5 %,107.77340393066406
+Flower - Leather Leaf Fern,10,245.38,Visa,6.0 %,230.65720458984376
+Fish - Soup Base Bouillon,9,95.57,Visa,8.0 %,87.92439971923828
+Silicone Paper 16.5x24,11,145.99,Visa,11.0 %,129.93110488891602
+Red Currants,17,208.22,Visa,7.5 %,192.6035011291504
+Lamb - Shanks,14,205.98,Visa,16.0 %,173.0231964111328
+Coriander - Seed,15,60.88,Visa,7.5 %,56.31400098800659
 Pepper - Sorrano,7,198.13,Cash,5.0 %,188.22350463867187
 Ecolab - Hobart Upr Prewash Arm,16,11.52,Cash,10.0 %,10.368000411987305
 Oil - Coconut,13,227.47,Cash,7.0 %,211.5471011352539
@@ -950,52 +950,52 @@ Fennel - Seeds,10,25.65,Cash,14.0 %,22.058999671936036
 Lotus Rootlets - Canned,17,11.33,Cash,10.0 %,10.19699993133545
 Chocolate - Chips Compound,9,2.21,Visa,5.0 %,2.099500036239624
 Bagel - Everything,14,14.0,Cash,7.0 %,13.02
-Beef - Sushi Flat Iron Steak,3,165.0,Visa,50.0 %,82.5
-Cheese - Colby,2,178.87,Visa,10.0 %,160.98299560546874
+Beef - Sushi Flat Iron Steak,3,165.0,Visa,27.5 %,119.625
+Cheese - Colby,2,178.87,Visa,7.5 %,165.45474548339843
 Bagel - Sesame Seed Presliced,14,56.25,Cash,5.0 %,53.4375
-Tomatoes - Cherry,15,149.69,Visa,13.5 %,129.4818521118164
-Pastry - Banana Muffin - Mini,4,113.46,Visa,0.0 %,113.45999908447266
+Tomatoes - Cherry,15,149.69,Visa,16.0 %,125.73960205078126
+Pastry - Banana Muffin - Mini,4,113.46,Visa,5.0 %,107.78699913024903
 Cheese - Cream Cheese,9,76.68,Cash,30.0 %,53.67600021362305
-Pork Casing,2,18.75,Visa,0.0 %,18.75
+Pork Casing,2,18.75,Visa,5.0 %,17.8125
 Wine - Puligny Montrachet A.,2,99.6,Visa,5.0 %,94.61999855041503
-Soup - Clam Chowder Dry Mix,17,93.42,Visa,12.5 %,81.74249839782715
+Soup - Clam Chowder Dry Mix,17,93.42,Visa,17.5 %,77.07149848937988
 Pork - Smoked Kassler,15,3.52,Cash,10.0 %,3.1679999828338623
-Cardamon Ground,3,117.79,Visa,0.0 %,117.79000091552734
-Island Oasis - Lemonade,7,30.26,Visa,15.5 %,25.56970019340515
-Coffee Beans - Chocolate,9,19.46,Visa,15.0 %,16.54099922180176
-Glucose,11,60.92,Visa,7.0 %,56.65559829711914
+Cardamon Ground,3,117.79,Visa,5.0 %,111.90050086975097
+Island Oasis - Lemonade,7,30.26,Visa,18.0 %,24.813200187683105
+Coffee Beans - Chocolate,9,19.46,Visa,17.5 %,16.054499244689943
+Glucose,11,60.92,Visa,11.0 %,54.21879837036133
 Beef - Tongue Cooked,15,13.78,Visa,8.5 %,12.60869975566864
-Table Cloth 62x120 Colour,17,26.57,Visa,10.0 %,23.9129997253418
+Table Cloth 62x120 Colour,17,26.57,Visa,15.0 %,22.584499740600585
 Gatorade - Orange,4,154.15,Cash,0.0 %,154.14999389648438
 Pasta - Lasagna Dry,7,80.81,Cash,5.0 %,76.76949768066406
 Soup - Cream Of Broccoli,15,162.26,Visa,13.0 %,141.16619522094726
-Sambuca - Ramazzotti,11,191.82,Visa,7.0 %,178.39260681152342
-Wine - Kwv Chenin Blanc South,10,8.87,Visa,6.0 %,8.337799892425537
+Sambuca - Ramazzotti,11,191.82,Visa,11.0 %,170.7198065185547
+Wine - Kwv Chenin Blanc South,10,8.87,Visa,8.5 %,8.11604989528656
 Wine - Manischewitz Concord,1,5.39,Visa,12.5 %,4.716249883174896
 Cookie Dough - Double,11,169.19,Cash,7.0 %,157.34670227050782
-Beef - Bresaola,6,91.29,Visa,14.5 %,78.05295078277588
-Smoked Paprika,1,202.23,Visa,0.0 %,202.22999572753906
+Beef - Bresaola,6,91.29,Visa,17.0 %,75.77070075988769
+Smoked Paprika,1,202.23,Visa,5.0 %,192.1184959411621
 Puree - Blackcurrant,15,10.48,Cash,10.0 %,9.431999588012696
-Pepper - Chillies Crushed,17,72.58,Visa,10.0 %,65.32200164794922
-Tea - English Breakfast,16,6.63,Visa,10.0 %,5.967000102996826
-Mustard - Individual Pkg,7,198.68,Visa,5.0 %,188.7459930419922
+Pepper - Chillies Crushed,17,72.58,Visa,15.0 %,61.69300155639648
+Tea - English Breakfast,16,6.63,Visa,7.5 %,6.132750105857849
+Mustard - Individual Pkg,7,198.68,Visa,7.5 %,183.77899322509765
 Cheese - Goat,5,213.05,Cash,10.0 %,191.74500274658203
 Swiss Chard,1,242.97,Cash,0.0 %,242.97000122070312
 Juice - Apple 284ml,17,30.02,Cash,6.5 %,28.068700428009034
-Dip - Tapenade,15,188.33,Visa,10.0 %,169.49700164794922
-Horseradish - Prepared,6,164.86,Visa,8.5 %,150.84690055847167
-Bar Mix - Pina Colada 355 Ml,15,86.4,Visa,10.0 %,77.76000137329102
+Dip - Tapenade,15,188.33,Visa,12.5 %,164.78875160217285
+Horseradish - Prepared,6,164.86,Visa,11.0 %,146.72540054321288
+Bar Mix - Pina Colada 355 Ml,15,86.4,Visa,12.5 %,75.60000133514404
 Wine - White Riesling Semi - Dry,1,102.32,Visa,5.0 %,97.20399971008301
 Chicken - Leg / Back Attach,7,38.09,Visa,5.0 %,36.185500144958496
 Radish - Pickled,16,243.4,Visa,7.5 %,225.14499435424804
 Mushroom - Chantrelle Fresh,5,19.92,Visa,33.0 %,13.346400051116943
-Chicken - White Meat With Tender,9,69.71,Visa,5.0 %,66.22449913024903
+Chicken - White Meat With Tender,9,69.71,Visa,7.5 %,64.4817491531372
 Shrimp - Black Tiger 13/15,17,101.43,Cash,10.0 %,91.2870002746582
 Food Colouring - Pink,4,91.88,Cash,0.0 %,91.87999725341797
 Chicken - Breast 5 - 7 Oz,15,192.27,Cash,10.0 %,173.04300384521486
 Blueberries,3,16.26,Cash,0.0 %,16.260000228881836
-Wine - Charddonnay Errazuriz,12,109.45,Visa,6.0 %,102.88299713134765
-Veal - Round Eye Of,17,206.63,Visa,10.0 %,185.96700439453124
-Veal - Leg,3,152.74,Visa,0.0 %,152.74000549316406
-Gin - Gilbeys London Dry,4,234.71,Visa,0.0 %,234.7100067138672
-Creme De Banane - Marie,1,9.05,Visa,0.0 %,9.050000190734863
+Wine - Charddonnay Errazuriz,12,109.45,Visa,11.0 %,97.41049728393554
+Veal - Round Eye Of,17,206.63,Visa,15.0 %,175.63550415039063
+Veal - Leg,3,152.74,Visa,5.0 %,145.10300521850587
+Gin - Gilbeys London Dry,4,234.71,Visa,5.0 %,222.97450637817383
+Creme De Banane - Marie,1,9.05,Visa,5.0 %,8.59750018119812
