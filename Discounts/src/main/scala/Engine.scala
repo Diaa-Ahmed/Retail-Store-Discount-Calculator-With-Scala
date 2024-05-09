@@ -5,12 +5,12 @@ import java.sql.DriverManager
 import java.text.SimpleDateFormat
 import java.time.LocalDate
 import java.time.temporal.ChronoUnit
+import java.util.logging.{FileHandler, Logger, SimpleFormatter}
 import scala.io.{BufferedSource, Source}
-import java.util.logging.{FileHandler, Level, Logger, SimpleFormatter}
 
 object Engine extends App {
   // Define Log Path
-  val fileHandler = new FileHandler("../rules_engine.log")
+  val fileHandler = new FileHandler("../Output/rules_engine.log")
   val logger: Logger = Logger.getLogger("Discount Engine")
   // Create a custom formatter for logger
   val formatter = new SimpleFormatter {
@@ -29,7 +29,7 @@ object Engine extends App {
   val source: BufferedSource = Source.fromFile("src/resources/TRX1000.csv")
 
   val lines: List[String] = source.getLines().drop(1).toList // drop header
-  val f: File = new File("../Final_discounts.csv")
+  val f: File = new File("../Output/Final_discounts.csv")
   val writer = new PrintWriter(new FileOutputStream(f,true))
 
   // Define case class to represent product information
@@ -53,7 +53,7 @@ object Engine extends App {
     val expire_date = LocalDate.parse(product.expiry_date)
     val diff = ChronoUnit.DAYS.between(order_date,expire_date)
     if ( diff <= 29) {
-      logger.info("Product is about to expire.")
+      //logger.info("Product is about to expire.")
       30 - diff
     }
     else 0
@@ -110,6 +110,7 @@ object Engine extends App {
   }
   // Calculate discount based on payment method
   def paymentMethodDiscount(product: Product): Double =  5.0
+
   // -----------------------------------------------
 
   // Prepare Data to be printed
@@ -127,17 +128,12 @@ object Engine extends App {
   )
   // Calculate total discount for product
   def calculateDiscount(Funcs: List[(Product => Boolean, Product => Double)], product: Product): Double = {
+    logger.info("Checking discount qualifying rules ")
     val discount_arr = Funcs.map(func => if(func._1(product)) func._2(product) else 0 ).filter(x=> x != 0.0).sorted.reverse.take(2)
     discount_arr.length match {
       case 1 => discount_arr.head * 1.0
-      case 2 => {
-        logger.info("Getting The Average Discount For Top 2 Discounts")
-        discount_arr.sum / 2.0
-      }
-      case _ => {
-        logger.info("Doesn't Qualify To Any Discount")
-        0.0
-      }
+      case 2 => discount_arr.sum / 2.0
+      case _ => 0.0
     }
   }
   // Write Data Into CSV
@@ -160,5 +156,7 @@ object Engine extends App {
   }.foreach(writeLine)
 
   dbconnection.closeConnection()
+  logger.info("Close database connection")
   writer.close()
+  logger.info("Close csv output file")
 }
