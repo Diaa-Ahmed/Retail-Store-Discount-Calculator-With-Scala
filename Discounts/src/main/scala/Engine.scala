@@ -53,7 +53,7 @@ object Engine extends App {
     val expire_date = LocalDate.parse(product.expiry_date)
     val diff = ChronoUnit.DAYS.between(order_date,expire_date)
     if ( diff <= 29) {
-      //logger.info("Product is about to expire.")
+      logger.info("Product is about to expire.")
       30 - diff
     }
     else 0
@@ -131,9 +131,16 @@ object Engine extends App {
     logger.info("Checking discount qualifying rules ")
     val discount_arr = Funcs.map(func => if(func._1(product)) func._2(product) else 0 ).filter(x=> x != 0.0).sorted.reverse.take(2)
     discount_arr.length match {
-      case 1 => discount_arr.head * 1.0
-      case 2 => discount_arr.sum / 2.0
-      case _ => 0.0
+      case 1 =>
+        logger.info(s"Only eligible for one discount = ${discount_arr.head}%")
+        discount_arr.head * 1.0
+      case 2 =>
+        val total = discount_arr.sum / 2.0
+        logger.info(s"Average discount for top 2 discount = Avg(${discount_arr(0)}, ${discount_arr(1)}) = $total%")
+        total
+      case _ =>
+        logger.info("Doesn't qualify for any discount")
+        0.0
     }
   }
   // Write Data Into CSV
