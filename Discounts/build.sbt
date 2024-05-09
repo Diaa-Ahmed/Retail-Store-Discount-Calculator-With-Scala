@@ -5,5 +5,6 @@ ThisBuild / scalaVersion := "2.13.11"
 lazy val root = (project in file("."))
   .settings(
     name := "Discounts",
-    idePackagePrefix := Some("Discounts")
+    idePackagePrefix := Some("Discounts"),
+    libraryDependencies += "com.oracle.database.jdbc" % "ojdbc8" % "19.3.0.0"
   )
